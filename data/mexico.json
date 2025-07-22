@@ -1,0 +1,2080 @@
+[
+  {
+    "title": "Garden Central Jardineria Polanco",
+    "totalScore": 4.2,
+    "reviewsCount": 78,
+    "street": "Blvd. Miguel de Cervantes Saavedra 47D, Granada, Miguel Hidalgo, 11,520 Ciudad de México, CDMX, Mexico",
+    "website": "http://gardencentral.mx/",
+    "phone": "+52 55 5282 3274",
+    "categoryName": [
+      "food",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vinde Garden Center. Vivero, plantas, jardinería, tierra, macetas, huerto en casa, suculentas para recuerdo",
+    "totalScore": 4.8,
+    "reviewsCount": 133,
+    "street": "Av. Talismán 45b, Col. Estrella, Gustavo A. Madero, 07810 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.vinde.com.mx/",
+    "phone": "+52 55 3040 5164",
+    "categoryName": ["florist", "store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Garden Center",
+    "totalScore": 4.6,
+    "reviewsCount": 80,
+    "street": "Hidalgo 352, Riberas del Pilar, 45906 San Antonio Tlayacapan, Jal., Mexico",
+    "website": "https://www.facebook.com/profile.php?id=100054650070644",
+    "phone": "+52 376 765 5973",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Armstrong Garden Centers",
+    "totalScore": 4.6,
+    "reviewsCount": 394,
+    "street": "1755 E Main St, El Cajon, CA 92021, USA",
+    "website": "http://armstronggarden.com/armstrong-garden-centers-el-cajon",
+    "phone": "+1 619-442-9281",
+    "categoryName": ["florist", "store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Mercado De Plantas",
+    "totalScore": 4.6,
+    "reviewsCount": 953,
+    "street": "Calle Melchor Ocampo 4, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Vivero Garden Center Marysia",
+    "totalScore": 4.6,
+    "reviewsCount": 187,
+    "street": "Carr al Molino de Flores 8, Xocotlan, 56236 Texcoco de Mora, Méx., Mexico",
+    "website": "https://gcmarysia.jimdofree.com/",
+    "phone": "+52 595 954 4223",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Maple Jardin",
+    "totalScore": 4.7,
+    "reviewsCount": 30,
+    "street": "Calle Melchor Ocampo 100-Local 18, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.facebook.com/maplejardin18",
+    "phone": "+52 55 3055 9494",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "MXPLANTAE",
+    "totalScore": 5,
+    "reviewsCount": 28,
+    "street": "Calle Amado Nervo 56, Agricultura, Miguel Hidalgo, 11360 Ciudad de México, CDMX, Mexico",
+    "website": "https://mxplantae.com/",
+    "phone": "+52 55 2248 4357",
+    "categoryName": [
+      "park",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "title": "CENTRO DE JARDINERIA SERVICIOS DE ARBORISTA, PAISAJISMO Y JARDINERIA",
+    "totalScore": 4.7,
+    "reviewsCount": 14,
+    "street": "Av. Arteaga y Salazar 759, Contadero, Cuajimalpa de Morelos, 05500 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 3957 9724",
+    "categoryName": [
+      "park",
+      "general_contractor",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vivero Plantas Vivas",
+    "totalScore": 4.7,
+    "reviewsCount": 114,
+    "street": "Av. Río Blanco 118, Industrial, Gustavo A. Madero, 07800 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.facebook.com/plantasvivas/?ref=hl",
+    "phone": "+52 55 4078 4499",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Market of plants and flowers Cuemanco",
+    "totalScore": 4.7,
+    "reviewsCount": 2553,
+    "street": "Av. Canal Nacional 2000, Coapa, Cuemanco, Xochimilco, 16036 Ciudad de México, CDMX, Mexico",
+    "website": "https://mexicocity.cdmx.gob.mx/venues/cuemanco-plants-and-flowers-market/?lang=es",
+    "phone": "+52 55 2300 3644",
+    "categoryName": ["florist", "store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Viveros kukulcan",
+    "totalScore": 4.8,
+    "reviewsCount": 11,
+    "street": "Parcela 179, Xochimilco, 16043 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.facebook.com/viveroskukulcanoficial/",
+    "phone": "+52 55 4052 1647",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Plant Market",
+    "totalScore": 4.6,
+    "reviewsCount": 2893,
+    "street": "C. Madreselva S/N, Xaltocan, Xochimilco, 16450 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 7676 3735",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Crasas & Cactáceas de Don Carmelo",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "Av. Sta. Lucia 147, Olivar del Conde 2da Secc, Álvaro Obregón, 01408 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.facebook.com/CrasasCactaceas/",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Lowe's Garden Center",
+    "totalScore": 4.3,
+    "reviewsCount": 79,
+    "street": "4705 South Expressway #77/83, Harlingen, TX 78550, USA",
+    "website": "https://www.lowes.com/l/gardencenter.html?cm_mmc=YEXT-_-GC",
+    "phone": "+1 956-365-0200",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Aguascalientes",
+    "totalScore": 4.3,
+    "reviewsCount": 2625,
+    "street": "Centro Comercial Galerias, Blvd. A Zacatecas 112, Desarrollo Especial Galerías, 20124 Aguascalientes, Ags., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Botanical Garden",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Mercado de Calzado \"La Central\", C. Aluminio 366, Felipe Ángeles, Venustiano Carranza, 15310 Ciudad de México, CDMX, Mexico",
+    "website": "http://cocarsa.com.mx/",
+    "phone": "+52 55 5789 2125",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Saltillo Nogalera",
+    "totalScore": 4.3,
+    "reviewsCount": 1568,
+    "street": "Perif. Luis Echeverría 1171, Nogalera, 25019 Saltillo, Coah., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Garden Pots Mx",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Av. Pdte. Plutarco Elías Calles 1655, Albert, Benito Juárez, 03560 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 56 2679 3791",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Villa Asunción",
+    "totalScore": 4.3,
+    "reviewsCount": 4301,
+    "street": "Blvd. José María Chávez 1809, Col. Prados De Villasunción, 20280 Aguascalientes, Ags., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "BBQ Grills and Fire",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "Km. 4.1, Cabo San Lucas-San José del Cabo, El Tezal, 23454 Cabo San Lucas, B.C.S., Mexico",
+    "website": "http://www.bajabbqgrills.com/",
+    "phone": "+52 624 105 9275",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coapa",
+    "totalScore": 4.6,
+    "reviewsCount": 240,
+    "street": "Calz. De Guadalupe, Coapa, Equipamiento Fábrica Fisisa, Tlalpan, 14357 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercoapa.com/",
+    "phone": "+52 55 7822 0264",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Aragón",
+    "totalScore": 4.3,
+    "reviewsCount": 3248,
+    "street": "Av. Carlos Hank González 120, Rinconada de Aragon, 55149 Ecatepec de Morelos, Méx., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "home_goods_store",
+      "hardware_store",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot León Plaza Mayor",
+    "totalScore": 4.4,
+    "reviewsCount": 3189,
+    "street": "Manuel J. Clouthier 304, Valle del Campestre, 37150 León de los Aldama, Gto., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "home_goods_store",
+      "hardware_store",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Humilpan",
+    "totalScore": 4.2,
+    "reviewsCount": 3151,
+    "street": "Carr. Huimilpan 999, zona dos extendida, Plazas del Sol 3ra Secc, 76074 Santiago de Querétaro, Qro., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Santa Fe",
+    "totalScore": 4.4,
+    "reviewsCount": 1708,
+    "street": "Prol. P.º de la Reforma 400, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01376 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Acueducto Zapopan",
+    "totalScore": 4.2,
+    "reviewsCount": 3590,
+    "street": "Unidad Privativa Dos, Av. Acueducto 6050, Lomas del Bosque, Chedraui, 45110 Zapopan, Jal., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "BBQ King",
+    "totalScore": 4.3,
+    "reviewsCount": 18,
+    "street": "LG 15, Lower Ground Floor, Bangsar Village Shopping Centre No.1, Jalan Telawi, Satu, Bangsar Baru, Bangsar, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "website": "N/A",
+    "phone": "+60 3-2287 0399",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Las Juntas",
+    "totalScore": 4.1,
+    "reviewsCount": 2681,
+    "street": "Carretera Tepic-Vallarta 5348 Col Las Juntas, 48291 Puerto Vallarta, Jal., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "home_goods_store",
+      "hardware_store",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Ecatepec",
+    "totalScore": 4.3,
+    "reviewsCount": 4350,
+    "street": "Vía Morelos Km 20.5, Los Laureles, 55090 Ecatepec de Morelos, Méx., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Celaya",
+    "totalScore": 4.3,
+    "reviewsCount": 2557,
+    "street": "Av. Tecnológico 698 -D Col. Ciudad Industrial, Las Aves, 38010 Celaya, Gto., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "CARBONeat Asador portátil Shark Tank",
+    "totalScore": 5,
+    "reviewsCount": 9,
+    "street": "Andes 14, Los Alpes, Álvaro Obregón, 01010 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.carboneat.com/",
+    "phone": "+52 55 5277 5510",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Coacalco",
+    "totalScore": 4.3,
+    "reviewsCount": 3137,
+    "street": "Av. José López Portillo 105, Villa de las Flores, 55700 San Francisco Coacalco, Méx., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Cuautitlán",
+    "totalScore": 4.1,
+    "reviewsCount": 3067,
+    "street": "Carr. México-Querétaro esq, Av Chalma Manzana 001, Jardines de la Hacienda, 54720 Cuautitlán Izcalli, Méx., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "home_goods_store",
+      "hardware_store",
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Mazatlán",
+    "totalScore": 4.3,
+    "reviewsCount": 1737,
+    "street": "Av. Rafael Buelna 600, Alameda, 82123 Mazatlán, Sin., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Metepec",
+    "totalScore": 4.2,
+    "reviewsCount": 4520,
+    "street": "Vía Metepec esq, P.º San Isidro 2 Nte, Santa Cruz, 52140 Metepec, Méx., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Culiacán Zapata",
+    "totalScore": 4.4,
+    "reviewsCount": 2032,
+    "street": "Boulevard Emiliano Zapata, Poniente 2546, Sin Asignación En Nombre de Asentamiento, El Vallado, 80110 Culiacán Rosales, Sin., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Home Depot",
+    "totalScore": 4.3,
+    "reviewsCount": 4107,
+    "street": "Vía Atlixcáyotl 5317 Col. Unidad Territorial, Atlixcáyotl 5317, Reserva Territorial Atlixcáyotl, Centros Comerciales Desarrollo Atlixcayotl, 72400 San Bernardino Tlaxcalancingo, Pue., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Charcoal Grill",
+    "totalScore": 4.4,
+    "reviewsCount": 1652,
+    "street": "Avenida Lazaro Cardenas 2027, Buena Vista Sur, 26040 Piedras Negras, Coah., Mexico",
+    "website": "https://www.charcoalgrill.mx/",
+    "phone": "+52 878 783 8200",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "GRILL.MX Lomas",
+    "totalScore": 4.6,
+    "reviewsCount": 90,
+    "street": "Av. Paseo de las Palmas 810, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.grill.mx/",
+    "phone": "+52 55 5540 7130",
+    "categoryName": [
+      "furniture_store",
+      "grocery_or_supermarket",
+      "home_goods_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Providencia",
+    "totalScore": 4.7,
+    "reviewsCount": 82,
+    "street": "Av Pablo Neruda 2609, Providencia 3a. Secc, 44630 Guadalajara, Jal., Mexico",
+    "website": "http://www.grilldelimarket.com/",
+    "phone": "+52 33 3813 1059",
+    "categoryName": [
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Sociedad Mexicana de Parrilleros Capítulo CDMX Sur",
+    "totalScore": 4.8,
+    "reviewsCount": 302,
+    "street": "Morelos 6, Progreso Tizapán, Álvaro Obregón, 01090 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.soyparrillero.mx/",
+    "phone": "+52 800 550 4000",
+    "categoryName": ["store", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "CARBONeat Asador Innovador",
+    "totalScore": 4,
+    "reviewsCount": 29,
+    "street": "Dakota 153, Nápoles, Benito Juárez, 03810 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.carboneat.com/",
+    "phone": "+52 55 5277 5510",
+    "categoryName": [
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Grill & More",
+    "totalScore": 4.8,
+    "reviewsCount": 21,
+    "street": "Av. José Vasconcelos 345, Santa Engracia, 66267 San Pedro Garza García, N.L., Mexico",
+    "website": "https://grillandmore.com.mx/",
+    "phone": "+52 81 8335 8377",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Parrillas y campanas CUPRA BLACK",
+    "totalScore": 3.5,
+    "reviewsCount": 2,
+    "street": "C. Girasol 16, Juan González Romero, Gustavo A. Madero, 07410 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.cheffgold.com/",
+    "phone": "+52 55 4850 9111",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "RD parrillas mexico",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Cda. Venustiano Carranza Manzana 004, Sta Maria Nativitas, 56335 Chimalhuacán, Méx., Mexico",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "CARBONeat Asador portátil Shark Tank",
+    "totalScore": 5,
+    "reviewsCount": 9,
+    "street": "Andes 14, Los Alpes, Álvaro Obregón, 01010 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.carboneat.com/",
+    "phone": "+52 55 5277 5510",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "DAGO Parrillas-Quemadores-Acero",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "Av. Gran Canal del Desagüe, 25 de Julio, Gustavo A. Madero, 07520 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "CharBroil Mx",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "Av Eloy Cavazos 2133, La Quinta, 67175 Guadalupe, N.L., Mexico",
+    "website": "http://www.charbroil.mx/",
+    "phone": "+52 81 8398 8520",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Aguascalientes",
+    "totalScore": 4.3,
+    "reviewsCount": 2625,
+    "street": "Centro Comercial Galerias, Blvd. A Zacatecas 112, Desarrollo Especial Galerías, 20124 Aguascalientes, Ags., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store LEON",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Blvd. Campestre 508, Jardines del Moral, 37160 León de los Aldama, Gto., Mexico",
+    "website": "N/A",
+    "phone": "+52 477 948 6226",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Home Depot Zacatecas",
+    "totalScore": 4.1,
+    "reviewsCount": 1701,
+    "street": "Camino Real de Tierra Adentro 5 Col, Arroyo de La Plata, El Carmen, 98600 Guadalupe, Zac., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Sociedad Mexicana de Parrilleros Capítulo Santiago",
+    "totalScore": 4.8,
+    "reviewsCount": 34,
+    "street": "Juan Tamez, Las Cristalinas, 67318 Santiago, N.L., Mexico",
+    "website": "http://soyparrillero.mx/",
+    "phone": "+52 800 550 4000",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "El Hidalguense",
+    "totalScore": 4.4,
+    "reviewsCount": 5614,
+    "street": "Campeche 155, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.facebook.com/el.hidalguense.5",
+    "phone": "+52 55 5564 0538",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Char-Broil México",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "EMILIANO ZAPATA #42 LOCAL B COL. EX HACIENDA DOÑA ROSA LERMA DE VILLADA, Manzana 019, Isidro Fabela, 52000 ESTADO DE MEXICO, Méx., Mexico",
+    "website": "N/A",
+    "phone": "+52 55 3900 7438",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "All Wood BBQ & Taproom",
+    "totalScore": 4.5,
+    "reviewsCount": 995,
+    "street": "Av. Yucatán 147, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://linktr.ee/allwoodbbq?fbclid=PAAaYSlN1BB-DjgESxjCUqV9KC1OapJgwEqtq3obbH_bf8Z6BkP-uTbWhj9vw",
+    "phone": "+52 56 3373 9049",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Pinche Gringo BBQ Patio",
+    "totalScore": 4.4,
+    "reviewsCount": 9728,
+    "street": "Cumbres de Maltrata 360, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Porco Rosso",
+    "totalScore": 4.5,
+    "reviewsCount": 5025,
+    "street": "Zacatecas 102, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://porcorossobbq.mx/",
+    "phone": "+52 55 5264 4668",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Old Jimmy's BBQ #TampiquitoTx",
+    "totalScore": 4.6,
+    "reviewsCount": 649,
+    "street": "Plutarco Elías Calles 107, Barrio Tampiquito, Tampiquito, 66240 San Pedro Garza García, N.L., Mexico",
+    "website": "http://instagram.com/oldjimmybbq",
+    "phone": "+52 81 8172 3296",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Taba BBQ",
+    "totalScore": 4.7,
+    "reviewsCount": 244,
+    "street": "5 de Mayo 109, Centro, Ildefonso Green, 23450 Cabo San Lucas, B.C.S., Mexico",
+    "website": "https://tababbq.com/",
+    "phone": "+52 624 123 9025",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pinche Gringo BBQ Warehouse",
+    "totalScore": 4.4,
+    "reviewsCount": 3537,
+    "street": "Lago Iseo 296, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Loco Mexican Bar and Restaurant",
+    "totalScore": 4.2,
+    "reviewsCount": 506,
+    "street": "22, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "website": "N/A",
+    "phone": "+60 3-2856 9285",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "El Torito #1SportsBar & BBQ House",
+    "totalScore": 4.4,
+    "reviewsCount": 565,
+    "street": "Quilla 112, Marina Vallarta, 48335 Puerto Vallarta, Jal., Mexico",
+    "website": "N/A",
+    "phone": "+52 322 209 2244",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Porco Rosso Cuauhtémoc",
+    "totalScore": 4.4,
+    "reviewsCount": 2089,
+    "street": "Río Nazas 111, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+    "website": "https://porcorossobbq.mx/",
+    "phone": "+52 55 9155 7672",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Pinche Gringo Sandwich Shop San Angel",
+    "totalScore": 4.5,
+    "reviewsCount": 258,
+    "street": "Av. De La Paz 57, San Angel, Alvaro Obregon, Plaza De El Carmen, Alvaro Obregon, San Ángel, Álvaro Obregón, 01100 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "AJ's Pit Bar-B-Q Punta Mita",
+    "totalScore": 5,
+    "reviewsCount": 40,
+    "street": "Av. El Anclote 20, 63734 Corral del Risco, Nay., Mexico",
+    "website": "https://www.ajsbbqpuntamita.com/",
+    "phone": "+52 329 291 9481",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pinche Gringo Sandwich Shop Arboledas",
+    "totalScore": 4.6,
+    "reviewsCount": 351,
+    "street": "Calzada de los Jinetes #141 Arboledas, Local 58, Tlalnepantla, Valle Dorado, Las Arboledas, 54020 Estado de Mexico, Méx., Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pig Up & Go LLC",
+    "totalScore": 4.7,
+    "reviewsCount": 205,
+    "street": "1659 S Elmwood Dr, Mexico, MO 65265, USA",
+    "website": "http://pigupandgo.com/",
+    "phone": "+1 573-581-3838",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Ladys BBQ",
+    "totalScore": 4.4,
+    "reviewsCount": 390,
+    "street": "Av. la Luz 100, pedregal del vergel, 64858 Monterrey, N.L., Mexico",
+    "website": "https://www.instagram.com/ladys_bbq/?hl=en",
+    "phone": "+52 81 1354 5529",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Bulls BBQ House",
+    "totalScore": 4.5,
+    "reviewsCount": 74,
+    "street": "Salida a Celaya 64-local 2, Centro, 37700 San Miguel de Allende, Gto., Mexico",
+    "website": "https://www.facebook.com/profile.php?id=100091919303102&mibextid=ZbWKwL",
+    "phone": "+52 415 219 7091",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "RIVS Smoke & Grill",
+    "totalScore": 4.7,
+    "reviewsCount": 37,
+    "street": "Centro de Linares, 67700 Linares, Nuevo Leon, Mexico",
+    "website": "https://instagram.com/rivsgrill?utm_medium=copy_link",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Asaderos Grill",
+    "totalScore": 4.5,
+    "reviewsCount": 1031,
+    "street": "Euler #152 Local H-I, Polanco, Polanco V Secc, Miguel Hidalgo, 11570 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.asaderosgrill.com.mx/",
+    "phone": "+52 55 5545 8344",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Midam",
+    "totalScore": 4.5,
+    "reviewsCount": 885,
+    "street": "Pedregal #49-P.B, Lomas - Virreyes, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.grupomidam.com/",
+    "phone": "+52 55 5087 6161",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Biwon",
+    "totalScore": 4.3,
+    "reviewsCount": 1922,
+    "street": "Florencia 20, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.facebook.com/restBIWON/",
+    "phone": "+52 55 5514 3994",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Gaucho Grill",
+    "totalScore": 4.4,
+    "reviewsCount": 740,
+    "street": "Temístocles 37, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico",
+    "website": "http://gauchogrill.mx/",
+    "phone": "+52 55 5280 1638",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Outdoor Kitchen",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "Av. Manuel Gómez Morín 315 Sur, Valle de Santa Engracia, 66268 San Pedro Garza García, N.L., Mexico",
+    "website": "N/A",
+    "phone": "+52 81 1358 0002",
+    "categoryName": [
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "BBQ Grills and Fire",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "Km. 4.1, Cabo San Lucas-San José del Cabo, El Tezal, 23454 Cabo San Lucas, B.C.S., Mexico",
+    "website": "http://www.bajabbqgrills.com/",
+    "phone": "+52 624 105 9275",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Cooking Company - Torrey",
+    "totalScore": 3.8,
+    "reviewsCount": 57,
+    "street": "Av. Nichupté MZNA 51 LT 1-15, Supermanzana 51, SM 51, 77533 Cancún, Q.R., Mexico",
+    "website": "https://www.cookingcompany.com.mx/",
+    "phone": "+52 998 880 9595",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "KITCHEN SUPPLIES & PARTS",
+    "totalScore": 4.9,
+    "reviewsCount": 12,
+    "street": "AVENA 148 1 PISO GRANJAS MEXICO, DEL. IZTACALCO, Iztacalco, 08400 Ciudad de México, CDMX, Mexico",
+    "website": "http://kit-supplies.com/",
+    "phone": "+52 55 5003 6069",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Eurobakery of Mexico",
+    "totalScore": 4.2,
+    "reviewsCount": 537,
+    "street": "Calle de Niza 76, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.eurobakery.com.mx/",
+    "phone": "+52 55 5511 7232",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Equipos Gastronómicos San Juan",
+    "totalScore": 4.8,
+    "reviewsCount": 10,
+    "street": "Av. Canal de San Juan 130, Tepalcates, Iztapalapa, 09210 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.cia-equipos.com/",
+    "phone": "+52 55 5701 8465",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Bistrochef Equipos de cocina profesional",
+    "totalScore": 4.5,
+    "reviewsCount": 19,
+    "street": "Oriente 95 57 Local 58 Pasillo 1, Tablas de San Agustín, Gustavo A. Madero, 07860 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.bistrochef.com.mx/",
+    "phone": "+52 55 4980 3747",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Local Asadores, Freidoras, Creperas y Más...",
+    "totalScore": 4.2,
+    "reviewsCount": 6,
+    "street": "C. Marruecos 105, Romero Rubio, Venustiano Carranza, 15400 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4964 7657",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "PARRILLAS DE GAS Y ARTÍCULOS DE COCINA",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "Av de las Torres #1 eje 6 con, Av. México Num 1, Santa María Aztahuacan, Iztapalapa, 09500 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.google.com/url?sa=t&source=web&rct=j&url=%23&ved=0ahUKEwjjqPb2hebjAhUEP60KHWBiBRAQxa8BCCowAA&usg=AOvVaw0VTJzWxrN8ZFOD4xbU2nov",
+    "phone": "+52 55 2179 4238",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Parrillas y campanas CUPRA BLACK",
+    "totalScore": 3.5,
+    "reviewsCount": 2,
+    "street": "C. Girasol 16, Juan González Romero, Gustavo A. Madero, 07410 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.cheffgold.com/",
+    "phone": "+52 55 4850 9111",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Cooking Market",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Av Chapultepec 203, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 5592 1516",
+    "categoryName": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Tu Cocina | Equipos para cocinas industriales",
+    "totalScore": 4.5,
+    "reviewsCount": 10,
+    "street": "Av. Cardadores 260-C, Industrial Julian de Obregon, 37290 León de los Aldama, Gto., Mexico",
+    "website": "https://tucocina.mx/",
+    "phone": "+52 477 980 2549",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Aguascalientes",
+    "totalScore": 4.3,
+    "reviewsCount": 2625,
+    "street": "Centro Comercial Galerias, Blvd. A Zacatecas 112, Desarrollo Especial Galerías, 20124 Aguascalientes, Ags., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Eloy Cavazos",
+    "totalScore": 4.4,
+    "reviewsCount": 2894,
+    "street": "Av Eloy Cavazos 7800, Acueducto, 67193 Guadalupe, N.L., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "home_goods_store",
+      "hardware_store",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Kitchen Solutions MX",
+    "totalScore": 4.5,
+    "reviewsCount": 6,
+    "street": "Rafael García Moreno 102, San Miguel, Iztapalapa, 09360 Ciudad de México, CDMX, Mexico",
+    "website": "https://kitchensolutionsmx.com/",
+    "phone": "+52 55 2298 8821",
+    "categoryName": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "El Tio Sam Puerto Vallarta",
+    "totalScore": 4.5,
+    "reviewsCount": 297,
+    "street": "Av. Francisco Medina Ascencio 2778, Villa Las Flores, 48335 Puerto Vallarta, Jal., Mexico",
+    "website": "https://eltiosampuertovallarta.com/",
+    "phone": "+52 322 209 1049",
+    "categoryName": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot San Luis Potosí",
+    "totalScore": 4.3,
+    "reviewsCount": 3132,
+    "street": "Av. Parque Chapultepec 210 Sur, Colinas del Parque, 78299 San Luis Potosí, S.L.P., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Villa Asunción",
+    "totalScore": 4.3,
+    "reviewsCount": 4301,
+    "street": "Blvd. José María Chávez 1809, Col. Prados De Villasunción, 20280 Aguascalientes, Ags., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Firewood",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "29 y Cusihuiriachi St. #81-4 Frac, San Antonio, Dublan, Ex-Agrícola San Antonio, 31530 Cuauhtémoc, Chih., Mexico",
+    "website": "http://firewood.com.mx/",
+    "phone": "+52 55 8421 4465",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Foresta Derribos Urbanos S.A de C.V",
+    "totalScore": 4.4,
+    "reviewsCount": 14,
+    "street": "C. Tlacoquemecatl 71-A, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+    "website": "https://sites.google.com/a/furbana.com.mx/venta-de-lena/",
+    "phone": "+52 55 5575 5009",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Firewood",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Avenida, Calz. Gral. Mariano Escobedo 595, Rincón del Bosque, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico",
+    "website": "https://firewoodmarketing.com/",
+    "phone": "+52 415 872 5132",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "BBQ Grills and Fire",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "Km. 4.1, Cabo San Lucas-San José del Cabo, El Tezal, 23454 Cabo San Lucas, B.C.S., Mexico",
+    "website": "http://www.bajabbqgrills.com/",
+    "phone": "+52 624 105 9275",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "GRILL.MX Lomas",
+    "totalScore": 4.6,
+    "reviewsCount": 90,
+    "street": "Av. Paseo de las Palmas 810, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.grill.mx/",
+    "phone": "+52 55 5540 7130",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "restaurant",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coapa",
+    "totalScore": 4.6,
+    "reviewsCount": 240,
+    "street": "Calz. De Guadalupe, Coapa, Equipamiento Fábrica Fisisa, Tlalpan, 14357 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercoapa.com/",
+    "phone": "+52 55 7822 0264",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "BBQ King",
+    "totalScore": 4.3,
+    "reviewsCount": 18,
+    "street": "LG 15, Lower Ground Floor, Bangsar Village Shopping Centre No.1, Jalan Telawi, Satu, Bangsar Baru, Bangsar, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "website": "N/A",
+    "phone": "+60 3-2287 0399",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pinche Gringo BBQ Warehouse",
+    "totalScore": 4.4,
+    "reviewsCount": 3537,
+    "street": "Lago Iseo 296, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill & More",
+    "totalScore": 4.8,
+    "reviewsCount": 21,
+    "street": "Av. José Vasconcelos 345, Santa Engracia, 66267 San Pedro Garza García, N.L., Mexico",
+    "website": "https://grillandmore.com.mx/",
+    "phone": "+52 81 8335 8377",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Providencia",
+    "totalScore": 4.7,
+    "reviewsCount": 82,
+    "street": "Av Pablo Neruda 2609, Providencia 3a. Secc, 44630 Guadalajara, Jal., Mexico",
+    "website": "http://www.grilldelimarket.com/",
+    "phone": "+52 33 3813 1059",
+    "categoryName": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber - The North Grill Shop",
+    "totalScore": 4,
+    "reviewsCount": 10,
+    "street": "Vista Hermosa 113, Vista Hermosa del Guadiana, 34116 Durango, Dgo., Mexico",
+    "website": "https://www.weber.com/MX/es/home/",
+    "phone": "+52 618 688 5426",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Lovingrill",
+    "totalScore": 3.7,
+    "reviewsCount": 23,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Florida, Álvaro Obregón, 01050 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 5322 0527",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill & More PLAZA LAS VILLAS",
+    "totalScore": 4.7,
+    "reviewsCount": 26,
+    "street": "Av Eugenio Garza Sada 6115-Local B102, Villa Las Fuentes, 64890 Monterrey, N.L., Mexico",
+    "website": "http://www.grillandmore.com.mx/",
+    "phone": "+52 81 1100 1554",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "All Wood BBQ & Taproom",
+    "totalScore": 4.5,
+    "reviewsCount": 995,
+    "street": "Av. Yucatán 147, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://linktr.ee/allwoodbbq?fbclid=PAAaYSlN1BB-DjgESxjCUqV9KC1OapJgwEqtq3obbH_bf8Z6BkP-uTbWhj9vw",
+    "phone": "+52 56 3373 9049",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Polanco",
+    "totalScore": 4.5,
+    "reviewsCount": 122,
+    "street": "Alejandro Dumas 304, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.weber.com.mx/",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Sociedad Mexicana de Parrilleros Capítulo CDMX Sur",
+    "totalScore": 4.8,
+    "reviewsCount": 302,
+    "street": "Morelos 6, Progreso Tizapán, Álvaro Obregón, 01090 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.soyparrillero.mx/",
+    "phone": "+52 800 550 4000",
+    "categoryName": ["store", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pinche Gringo BBQ Patio",
+    "totalScore": 4.4,
+    "reviewsCount": 9728,
+    "street": "Cumbres de Maltrata 360, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "DAGO Parrillas-Quemadores-Acero",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "Av. Gran Canal del Desagüe, 25 de Julio, Gustavo A. Madero, 07520 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Porco Rosso",
+    "totalScore": 4.5,
+    "reviewsCount": 5025,
+    "street": "Zacatecas 102, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://porcorossobbq.mx/",
+    "phone": "+52 55 5264 4668",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Sociedad Mexicana de Parrilleros Capítulo Guadalajara",
+    "totalScore": 4.9,
+    "reviewsCount": 133,
+    "street": "Av Tizoc 3664, Cd del Sol, 45050 Zapopan, Jal., Mexico",
+    "website": "http://www.soyparrillero.mx/",
+    "phone": "+52 800 550 4000",
+    "categoryName": ["food", "point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "El Tio Sam Puerto Vallarta",
+    "totalScore": 4.5,
+    "reviewsCount": 297,
+    "street": "Av. Francisco Medina Ascencio 2778, Villa Las Flores, 48335 Puerto Vallarta, Jal., Mexico",
+    "website": "https://eltiosampuertovallarta.com/",
+    "phone": "+52 322 209 1049",
+    "categoryName": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "BBQ Grills and Fire",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "Km. 4.1, Cabo San Lucas-San José del Cabo, El Tezal, 23454 Cabo San Lucas, B.C.S., Mexico",
+    "website": "http://www.bajabbqgrills.com/",
+    "phone": "+52 624 105 9275",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "GRILL.MX Lomas",
+    "totalScore": 4.6,
+    "reviewsCount": 90,
+    "street": "Av. Paseo de las Palmas 810, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.grill.mx/",
+    "phone": "+52 55 5540 7130",
+    "categoryName": [
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Coapa",
+    "totalScore": 4.6,
+    "reviewsCount": 240,
+    "street": "Calz. De Guadalupe, Coapa, Equipamiento Fábrica Fisisa, Tlalpan, 14357 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercoapa.com/",
+    "phone": "+52 55 7822 0264",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill & More",
+    "totalScore": 4.8,
+    "reviewsCount": 21,
+    "street": "Av. José Vasconcelos 345, Santa Engracia, 66267 San Pedro Garza García, N.L., Mexico",
+    "website": "https://grillandmore.com.mx/",
+    "phone": "+52 81 8335 8377",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "SMOKERS AND GRILLS",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "Carr Nacional KM.266, LOS ENCINOS, 64987 Monterrey, N.L., Mexico",
+    "website": "N/A",
+    "phone": "+52 81 8358 7976",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Lovingrill",
+    "totalScore": 3.7,
+    "reviewsCount": 23,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Florida, Álvaro Obregón, 01050 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 5322 0527",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill Box",
+    "totalScore": 4.6,
+    "reviewsCount": 20,
+    "street": "Cuauhtémoc #333 Norte entre Av. Benito Juárez y calle Independencia Zona Centro, Centro de Guadalupe, 67100 Guadalupe, N.L., Mexico",
+    "website": "https://www.grillbox.mx/",
+    "phone": "+52 81 1505 5470",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Asadores Argentinos Ballcomm Grills - CDMX, San Ángel",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "San Ángel, Álvaro Obregón, 01780 Mexico City, CDMX, Mexico",
+    "website": "https://asadoresestiloargentino.com.mx/",
+    "phone": "+52 55 5681 1137",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "DAGO Parrillas-Quemadores-Acero",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "Av. Gran Canal del Desagüe, 25 de Julio, Gustavo A. Madero, 07520 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Sociedad Mexicana de Parrilleros Capítulo CDMX Sur",
+    "totalScore": 4.8,
+    "reviewsCount": 302,
+    "street": "Morelos 6, Progreso Tizapán, Álvaro Obregón, 01090 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.soyparrillero.mx/",
+    "phone": "+52 800 550 4000",
+    "categoryName": ["food", "point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Parrillas y campanas CUPRA BLACK",
+    "totalScore": 3.5,
+    "reviewsCount": 2,
+    "street": "C. Girasol 16, Juan González Romero, Gustavo A. Madero, 07410 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.cheffgold.com/",
+    "phone": "+52 55 4850 9111",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill Box Monterrey Sucursal. La Rioja",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Plaza la Rioja, Carr Nacional 5000, 64985 Monterrey, N.L., Mexico",
+    "website": "http://www.grillbox.mx/",
+    "phone": "+52 81 8462 2258",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "PARRILLAS DE GAS Y ARTÍCULOS DE COCINA",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "Av de las Torres #1 eje 6 con, Av. México Num 1, Santa María Aztahuacan, Iztapalapa, 09500 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.google.com/url?sa=t&source=web&rct=j&url=%23&ved=0ahUKEwjjqPb2hebjAhUEP60KHWBiBRAQxa8BCCowAA&usg=AOvVaw0VTJzWxrN8ZFOD4xbU2nov",
+    "phone": "+52 55 2179 4238",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Distribuidora Grill & Home Mex",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Calz. De Guadalupe 53, Coapa, Prado Coapa, Tlalpan, 14357 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 6414 7307",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Parrillas y asadores",
+    "totalScore": 4.6,
+    "reviewsCount": 5,
+    "street": "Mercado San Juan pantitlan L-146, Juárez Pantitlan, 57460 Cdad. Nezahualcóyotl, Méx., Mexico",
+    "website": "N/A",
+    "phone": "+52 55 3752 2161",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Local Asadores, Freidoras, Creperas y Más...",
+    "totalScore": 4.2,
+    "reviewsCount": 6,
+    "street": "C. Marruecos 105, Romero Rubio, Venustiano Carranza, 15400 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4964 7657",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Parrillas e inoxidables Bahena",
+    "totalScore": 4.5,
+    "reviewsCount": 31,
+    "street": "C. Pablo García 87, Juan Escutia, Iztapalapa, 09100 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4917 9783",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "EQUIPAMIENTO ELITE BY ZEUS",
+    "totalScore": 4.3,
+    "reviewsCount": 33,
+    "street": "Av Chapultepec 136-Local “A, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://equipamientoelite.mx/",
+    "phone": "+52 55 5929 4337",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Charcoal Grill",
+    "totalScore": 4.4,
+    "reviewsCount": 1652,
+    "street": "Avenida Lazaro Cardenas 2027, Buena Vista Sur, 26040 Piedras Negras, Coah., Mexico",
+    "website": "https://www.charcoalgrill.mx/",
+    "phone": "+52 878 783 8200",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "All Wood BBQ & Taproom",
+    "totalScore": 4.5,
+    "reviewsCount": 995,
+    "street": "Av. Yucatán 147, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://linktr.ee/allwoodbbq?fbclid=PAAaYSlN1BB-DjgESxjCUqV9KC1OapJgwEqtq3obbH_bf8Z6BkP-uTbWhj9vw",
+    "phone": "+52 56 3373 9049",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Providencia",
+    "totalScore": 4.7,
+    "reviewsCount": 82,
+    "street": "Av Pablo Neruda 2609, Providencia 3a. Secc, 44630 Guadalajara, Jal., Mexico",
+    "website": "http://www.grilldelimarket.com/",
+    "phone": "+52 33 3813 1059",
+    "categoryName": [
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot San Luis Potosí",
+    "totalScore": 4.3,
+    "reviewsCount": 3132,
+    "street": "Av. Parque Chapultepec 210 Sur, Colinas del Parque, 78299 San Luis Potosí, S.L.P., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Zacatecas",
+    "totalScore": 4.1,
+    "reviewsCount": 1701,
+    "street": "Camino Real de Tierra Adentro 5 Col, Arroyo de La Plata, El Carmen, 98600 Guadalupe, Zac., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Home Depot Saltillo Nogalera",
+    "totalScore": 4.3,
+    "reviewsCount": 1568,
+    "street": "Perif. Luis Echeverría 1171, Nogalera, 25019 Saltillo, Coah., Mexico",
+    "website": "https://www.homedepot.com.mx/",
+    "phone": "+52 800 004 6633",
+    "categoryName": [
+      "hardware_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "CARBONeat Asador portátil Shark Tank",
+    "totalScore": 5,
+    "reviewsCount": 9,
+    "street": "Andes 14, Los Alpes, Álvaro Obregón, 01010 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.carboneat.com/",
+    "phone": "+52 55 5277 5510",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "H-E-B Santa Monica",
+    "totalScore": 4.7,
+    "reviewsCount": 2616,
+    "street": "Av. Siglo XXI 3865, Barandales de San José, 20206 Aguascalientes, Ags., Mexico",
+    "website": "https://www.heb.com.mx/tiendas",
+    "phone": "+52 449 454 0073",
+    "categoryName": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Parrillas y campanas CUPRA BLACK",
+    "totalScore": 3.5,
+    "reviewsCount": 2,
+    "street": "C. Girasol 16, Juan González Romero, Gustavo A. Madero, 07410 Ciudad de México, CDMX, Mexico",
+    "website": "http://www.cheffgold.com/",
+    "phone": "+52 55 4850 9111",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Aguascalientes Walmart Oriente",
+    "totalScore": 4.4,
+    "reviewsCount": 8754,
+    "street": "Av.Oriente No 2606, Desarrollo Especial Ojocaliente, 20198 Aguascalientes, Ags., Mexico",
+    "website": "http://www.walmart.com.mx/",
+    "phone": "+52 800 925 6278",
+    "categoryName": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "CharBroil Mx",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "Av Eloy Cavazos 2133, La Quinta, 67175 Guadalupe, N.L., Mexico",
+    "website": "http://www.charbroil.mx/",
+    "phone": "+52 81 8398 8520",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Walmart",
+    "totalScore": 4.3,
+    "reviewsCount": 4201,
+    "street": "Las Americas 302, Fraccionamiento, Arboledas, 78760 Matehuala, S.L.P., Mexico",
+    "website": "https://www.walmartmexico.com/conocenos/directorio-de-tiendas/san-luis-potosi?multi=false",
+    "phone": "+52 800 925 6278",
+    "categoryName": [
+      "department_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "H-E-B",
+    "totalScore": 4.5,
+    "reviewsCount": 12487,
+    "street": "Av Independencia 1831, Desarrollo Especial Galerías, 20124 Aguascalientes, Ags., Mexico",
+    "website": "https://www.heb.com.mx/",
+    "phone": "+52 449 251 7960",
+    "categoryName": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "H-E-B Revolución",
+    "totalScore": 4.5,
+    "reviewsCount": 3675,
+    "street": "Blvrd Revolución 2840-Oriente, Torreón Jardín, 27001 Torreón, Coah., Mexico",
+    "website": "https://www.heb.com.mx/",
+    "phone": "+52 871 732 1699",
+    "categoryName": [
+      "supermarket",
+      "atm",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "finance",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Charcoal Grill Chicken",
+    "totalScore": 4.5,
+    "reviewsCount": 308,
+    "street": "18921 Soledad Canyon Rd, Canyon Country, CA 91351, USA",
+    "website": "https://www.charcoalgrilledchicken.com/",
+    "phone": "+1 661-495-4045",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Walmart",
+    "totalScore": 4.3,
+    "reviewsCount": 7704,
+    "street": "Blvd. Felipe Pescador 1101, Zona Centro, 34000 Durango, Dgo., Mexico",
+    "website": "http://www.walmart.com.mx/",
+    "phone": "+52 800 925 6278",
+    "categoryName": [
+      "department_store",
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Walmart Colinas Del Padre",
+    "totalScore": 4.4,
+    "reviewsCount": 4927,
+    "street": "Av. Sierra Madre 101, Zona A, Colinas del Padre, 98085 Zacatecas, Zac., Mexico",
+    "website": "http://www.walmart.com.mx/",
+    "phone": "+52 800 925 6278",
+    "categoryName": [
+      "department_store",
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Grill Pal | Asadores Cerámicos",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Vicente Guerrero 2510-B, Col Del Prado, 64410 Monterrey, N.L., Mexico",
+    "website": "http://www.grill-pal.com/",
+    "phone": "+52 81 1800 7124",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "BBQ Grills and Fire",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "Km. 4.1, Cabo San Lucas-San José del Cabo, El Tezal, 23454 Cabo San Lucas, B.C.S., Mexico",
+    "website": "http://www.bajabbqgrills.com/",
+    "phone": "+52 624 105 9275",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Pinche Gringo BBQ Warehouse",
+    "totalScore": 4.4,
+    "reviewsCount": 3537,
+    "street": "Lago Iseo 296, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico",
+    "website": "https://www.pgbbq.mx/",
+    "phone": "+52 55 6389 1129",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Condesa",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "Av México 165, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercondesa.com/",
+    "phone": "+52 55 3543 3346",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coapa",
+    "totalScore": 4.6,
+    "reviewsCount": 240,
+    "street": "Calz. De Guadalupe, Coapa, Equipamiento Fábrica Fisisa, Tlalpan, 14357 Ciudad de México, CDMX, Mexico",
+    "website": "http://webercoapa.com/",
+    "phone": "+52 55 7822 0264",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Weber Original Store Coyoacán",
+    "totalScore": 4.4,
+    "reviewsCount": 124,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Chimalistac, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 4944 9349",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill & More PLAZA LAS VILLAS",
+    "totalScore": 4.7,
+    "reviewsCount": 26,
+    "street": "Av Eugenio Garza Sada 6115-Local B102, Villa Las Fuentes, 64890 Monterrey, N.L., Mexico",
+    "website": "http://www.grillandmore.com.mx/",
+    "phone": "+52 81 1100 1554",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Grill Box",
+    "totalScore": 4.6,
+    "reviewsCount": 20,
+    "street": "Cuauhtémoc #333 Norte entre Av. Benito Juárez y calle Independencia Zona Centro, Centro de Guadalupe, 67100 Guadalupe, N.L., Mexico",
+    "website": "https://www.grillbox.mx/",
+    "phone": "+52 81 1505 5470",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "SMOKERS AND GRILLS",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "Carr Nacional KM.266, LOS ENCINOS, 64987 Monterrey, N.L., Mexico",
+    "website": "N/A",
+    "phone": "+52 81 8358 7976",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber - The North Grill Shop",
+    "totalScore": 4,
+    "reviewsCount": 10,
+    "street": "Vista Hermosa 113, Vista Hermosa del Guadiana, 34116 Durango, Dgo., Mexico",
+    "website": "https://www.weber.com/MX/es/home/",
+    "phone": "+52 618 688 5426",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Lovingrill",
+    "totalScore": 3.7,
+    "reviewsCount": 23,
+    "street": "Av. Universidad 1627, Hacienda de Guadalupe Chimalistac, Florida, Álvaro Obregón, 01050 Ciudad de México, CDMX, Mexico",
+    "website": "N/A",
+    "phone": "+52 55 5322 0527",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "All Wood BBQ & Taproom",
+    "totalScore": 4.5,
+    "reviewsCount": 995,
+    "street": "Av. Yucatán 147, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+    "website": "https://linktr.ee/allwoodbbq?fbclid=PAAaYSlN1BB-DjgESxjCUqV9KC1OapJgwEqtq3obbH_bf8Z6BkP-uTbWhj9vw",
+    "phone": "+52 56 3373 9049",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Weber Original Store La Rioja",
+    "totalScore": 4.7,
+    "reviewsCount": 60,
+    "street": "Carr Nacional 5000, Villas La Rioja, 64162 Monterrey, N.L., Mexico",
+    "website": "N/A",
+    "phone": "+52 81 2526 5382",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  }
+]

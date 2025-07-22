@@ -1,0 +1,814 @@
+[
+  {
+    "title": "BBQ Shop",
+    "totalScore": 4.6,
+    "reviewsCount": 51,
+    "street": "R. Gen. Urquiza, 67 - Loja A - Leblon, Rio de Janeiro - RJ, 22431-040, Brazil",
+    "website": "http://www.bbqshop.com.br/",
+    "phone": "+55 21 3081-2196",
+    "categoryName": ["store", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "King's Barbecue",
+    "totalScore": 3.6,
+    "reviewsCount": 41,
+    "street": "Rod. Raposo Tavares, Km 164 - 100 - Vila Nova Itapetininga, Itapetininga - SP, 18203-340, Brazil",
+    "website": "https://www.kingsbarbecue.com.br/?parceiro=8653",
+    "phone": "+55 15 99766-1260",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Brazilian Charcoal BBQ",
+    "totalScore": 4.8,
+    "reviewsCount": 149,
+    "street": "13/7 Bonner Dr, Malaga WA 6090, Australia",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill Land",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Av. Dr. Jambeiro Costa, 3024 - CENTRO, CEP 13.610-236 - Chácara Saude, Leme - SP, 13610-236, Brazil",
+    "website": "https://grillland.com.br/",
+    "phone": "+55 19 99677-1927",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Parrillas Brasil",
+    "totalScore": 4.8,
+    "reviewsCount": 82,
+    "street": "R. Santos Dumont, 880 - Floresta, Porto Alegre - RS, 90230-241, Brazil",
+    "website": "http://www.parrillasbrasil.com.br/",
+    "phone": "+55 51 3072-1899",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Brazilian Forest Products",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Av. Sen. Souza Naves, 1450 - Cristo Rei, Curitiba - PR, 80050-152, Brazil",
+    "website": "http://brazilianforestproducts.com/",
+    "phone": "+55 41 99195-1966",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "FireSmoke Brasil",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Av Newman, 31 - Vila Maria, Três Lagoas - MS, 79621-063, Brazil",
+    "website": "http://www.firesmokebrasil.com.br/",
+    "phone": "+55 67 98170-4490",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "FEED Açougue do Produtor",
+    "totalScore": 4.6,
+    "reviewsCount": 635,
+    "street": "R. Dr. Mário Ferraz, 547 - Jardim Paulistano, São Paulo - SP, 01453-011, Brazil",
+    "website": "http://www.feed.com.br/",
+    "phone": "+55 11 5627-4700",
+    "categoryName": [
+      "grocery_or_supermarket",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "deBetti Dry Aged & Special Meat",
+    "totalScore": 4.5,
+    "reviewsCount": 2897,
+    "street": "R. Curumins, 1 - Cidade Jardim, São Paulo - SP, 05672-010, Brazil",
+    "website": "http://debetti.com.br/",
+    "phone": "N/A",
+    "categoryName": [
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Loja Brazil",
+    "totalScore": 4.7,
+    "reviewsCount": 43,
+    "street": "R. Antônio Lopes Gonçalves Bastos, 401 - Bairro Rio Pequeno, Camboriú - SC, 88343-412, Brazil",
+    "website": "http://www.lojabrazil.com.br/",
+    "phone": "+55 47 3389-0920",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Brasil Kitchen",
+    "totalScore": 5,
+    "reviewsCount": 6,
+    "street": "BR-476, n° 10025 - Barracão 04 - Porto das Laranjeiras, Araucária - PR, 83703-990, Brazil",
+    "website": "N/A",
+    "phone": "+55 41 99946-3103",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Progrill",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "R. Brasholanda, 51 - Fábrica - Weissópolis, Pinhais - PR, 83322-070, Brazil",
+    "website": "https://www.progrill.com.br/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8330515278380515257",
+    "phone": "+55 41 99161-7887",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Grill Land",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Av. Dr. Jambeiro Costa, 3024 - CENTRO, CEP 13.610-236 - Chácara Saude, Leme - SP, 13610-236, Brazil",
+    "website": "https://grillland.com.br/",
+    "phone": "+55 19 99677-1927",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Brasília",
+    "totalScore": 4.3,
+    "reviewsCount": 8741,
+    "street": "SIA Trecho 14 - Guará, Brasília - DF, 71200-140, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_136",
+    "phone": "+55 61 3772-6545",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "clothing_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Leroy Merlin Taguatinga",
+    "totalScore": 4.2,
+    "reviewsCount": 3347,
+    "street": "Qs 3, 420, 420 - Taguatinga, Brasília - DF, 71953-100, Brazil",
+    "website": "https://www.leroymerlin.com.br/",
+    "phone": "+55 4020-5376",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Leroy Merlin Goiânia",
+    "totalScore": 4.2,
+    "reviewsCount": 4296,
+    "street": "Av. Goiás, 3592 - St. Central, Goiânia - GO, 74063-010, Brazil",
+    "website": "https://www.leroymerlin.com.br/",
+    "phone": "+55 4020-5376",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Havan Valparaíso de Goiás",
+    "totalScore": 4.4,
+    "reviewsCount": 9460,
+    "street": "Al. Santa Maria - BR-040 - Parque Esplanada V, Valparaíso de Goiás - GO, 76600-000, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_74",
+    "phone": "+55 61 4063-9266",
+    "categoryName": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Palmas",
+    "totalScore": 4.4,
+    "reviewsCount": 8119,
+    "street": "Q. 403 Sul Avenida NS 1 - Plano Diretor Sul, Palmas - TO, 77015-591, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_79",
+    "phone": "+55 63 3026-0460",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Sorriso",
+    "totalScore": 4.6,
+    "reviewsCount": 1677,
+    "street": "Rua Idemar Riedi, 7536 - Lot. Valo, Sorriso - MT, 78895-350, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_153",
+    "phone": "+55 66 2101-7855",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Anápolis",
+    "totalScore": 4.4,
+    "reviewsCount": 12171,
+    "street": "Av. Juscelino Kubitscheck, 3000 - Jardim Eldorado, Anápolis - GO, 75105-080, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_63",
+    "phone": "+55 62 3771-6705",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Cuiabá",
+    "totalScore": 4.4,
+    "reviewsCount": 10204,
+    "street": "Av. Historiador Rubens de Mendonça, 2555 - Alvorada, Cuiabá - MT, 78050-000, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_58",
+    "phone": "+55 65 4052-9645",
+    "categoryName": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Coxipó",
+    "totalScore": 4.6,
+    "reviewsCount": 3248,
+    "street": "Av. Fernando Corrêa da Costa, 6383 - Parque Ohara, Cuiabá - MT, 78080-300, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_86",
+    "phone": "+55 65 2121-5975",
+    "categoryName": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Rondonópolis",
+    "totalScore": 4.5,
+    "reviewsCount": 6704,
+    "street": "R. Fernando Corrêa da Costa - Vila Aurora I, Rondonópolis - MT, 78740-000, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_59",
+    "phone": "+55 66 3027-9210",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Havan Sinop",
+    "totalScore": 4.4,
+    "reviewsCount": 8326,
+    "street": "R. dos Manacás, 2921 - St. Industrial, Sinop - MT, 78557-452, Brazil",
+    "website": "https://www.havan.com.br/?utm_source=gmb&utm_medium=gmb-perfil&utm_campaign=lc_57",
+    "phone": "+55 66 3027-9312",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Americanas",
+    "totalScore": 4.2,
+    "reviewsCount": 2202,
+    "street": "Brasìlia shopping - SCN, S/N - Quadra 05, Lote A, Loja 200 - Asa Norte, Brasília - DF, 71710-500, Brazil",
+    "website": "https://www.americanas.com.br/lojas-proximas/33014556000196/L137?ordenacao=topSelling&utm_medium=meunegocio&utm_source=google&utm_campaign=marca:acom;midia:meunegocio;formato:00;subformato:00;idcampanha:pacotelocal&epar=mn_00_00_go_pacotelocal",
+    "phone": "N/A",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Lojas Americanas",
+    "totalScore": 4.2,
+    "reviewsCount": 1400,
+    "street": "SHC AOS 2/8 lote 5 SS 01 - Cruzeiro / Sudoeste / Octogonal, Brasília - DF, 70660-090, Brazil",
+    "website": "https://www.americanas.com.br/",
+    "phone": "+55 61 3252-7023",
+    "categoryName": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Wildwood Ovens & BBQ's",
+    "totalScore": 3.5,
+    "reviewsCount": 8,
+    "street": "5020 N Eagle Rock Blvd, Los Angeles, CA 90041, USA",
+    "website": "http://www.wildwoodovens.com/",
+    "phone": "+1 323-255-6578",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Americanas",
+    "totalScore": 4.1,
+    "reviewsCount": 873,
+    "street": "St. A Sul CSA 1 s/n - Taguatinga, Brasília - DF, 72015-015, Brazil",
+    "website": "https://www.americanas.com.br/lojas-proximas/33014556000196/L039?ordenacao=topSelling&utm_medium=meunegocio&utm_source=google&utm_campaign=marca:acom;midia:meunegocio;formato:00;subformato:00;idcampanha:pacotelocal&epar=mn_00_00_go_pacotelocal",
+    "phone": "N/A",
+    "categoryName": [
+      "department_store",
+      "electronics_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Que Club",
+    "totalScore": 4.9,
+    "reviewsCount": 572,
+    "street": "3-7 Syme St, Brunswick VIC 3056, Australia",
+    "website": "http://thequeclub.com.au/",
+    "phone": "+61 3 9489 2783",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Muito Bom! Brazilian BBQ Buffet Official",
+    "totalScore": 4.6,
+    "reviewsCount": 1342,
+    "street": "Unit G-13, Nexus, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "website": "https://lounge.oddle.me/en_MY/muitobom",
+    "phone": "+60 18-201 5626",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Carnaval Churrascaria",
+    "totalScore": 4.4,
+    "reviewsCount": 787,
+    "street": "77, Jalan SS 22/19, Damansara Jaya, 47400 Petaling Jaya, Selangor, Malaysia",
+    "website": "http://www.facebook.com/carnavalchurrascaria",
+    "phone": "+60 12-377 2252",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Beard Brothers BBQ",
+    "totalScore": 4.4,
+    "reviewsCount": 2773,
+    "street": "P-G-01, Tropicana Avenue, Persiaran, Tropicana Golf & Country Resort, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia",
+    "website": "https://linktr.ee/beardbrothers",
+    "phone": "+60 12-319 0962",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Fogo de Chão",
+    "totalScore": 4.7,
+    "reviewsCount": 30327,
+    "street": "Av. Reporter Nestor Moreira, S/N - Botafogo, Rio de Janeiro - RJ, 22290-210, Brazil",
+    "website": "https://fogodechao.com.br/location/botafogo/",
+    "phone": "+55 21 2542-1545",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Super Boring Club",
+    "totalScore": 4.7,
+    "reviewsCount": 1030,
+    "street": "15, Jln Mesui, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "website": "https://www.instagram.com/superboringclub/",
+    "phone": "+60 10-665 5277",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Barbacoa",
+    "totalScore": 4.7,
+    "reviewsCount": 6679,
+    "street": "R. Dr. Renato Paes de Barros, 65 - Itaim Bibi, São Paulo - SP, 04530-000, Brazil",
+    "website": "https://barbacoa.com.br/",
+    "phone": "+55 11 3168-5522",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Barra Grill",
+    "totalScore": 4.6,
+    "reviewsCount": 1988,
+    "street": "Av. Min. Ivan Lins, 314 - Barra da Tijuca, Rio de Janeiro - RJ, 22620-110, Brazil",
+    "website": "http://www.barragrill.com.br/",
+    "phone": "+55 21 2493-6060",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Texas BBQ Barn Restaurant KL",
+    "totalScore": 4.6,
+    "reviewsCount": 856,
+    "street": "18, Jalan Dwitasik, Dataran Dwitasik, 56000 Cheras, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "website": "http://www.texasbbqbarn.com/",
+    "phone": "+60 10-298 1676",
+    "categoryName": [
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Fogo de Chão Jardins",
+    "totalScore": 4.8,
+    "reviewsCount": 20424,
+    "street": "R. Augusta, 2077 - Cerqueira César, São Paulo - SP, 01413-100, Brazil",
+    "website": "https://fogodechao.com.br/location/jardins/",
+    "phone": "+55 11 3062-2223",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Fogo de Chão Moema",
+    "totalScore": 4.8,
+    "reviewsCount": 27747,
+    "street": "Av. Moreira Guimarães, 964 - Indianópolis, São Paulo - SP, 04074-020, Brazil",
+    "website": "https://fogodechao.com.br/location/moema/",
+    "phone": "+55 11 5056-1795",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Churrascaria Rio Brasa",
+    "totalScore": 4.6,
+    "reviewsCount": 5789,
+    "street": "Av. Ayrton Senna, 2541 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-002, Brazil",
+    "website": "http://riobrasa.com.br",
+    "phone": "+55 21 2199-9191",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Churrascaria Palace",
+    "totalScore": 4.7,
+    "reviewsCount": 6368,
+    "street": "R. Rodolfo Dantas, 16 - Copacabana, Rio de Janeiro - RJ, 22020-040, Brazil",
+    "website": "https://churrascariapalace.com.br/",
+    "phone": "+55 21 2541-5898",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Brazilian Aussie BBQ @ Seminyak",
+    "totalScore": 4.5,
+    "reviewsCount": 2103,
+    "street": "Jl. Beraban No.12, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+    "website": "http://brazilianaussiebbq.com/",
+    "phone": "+62 819-9909-4104",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Churrascaria Carretão Lido",
+    "totalScore": 4.6,
+    "reviewsCount": 3658,
+    "street": "R. Ronald de Carvalho, 55 - lojas A e B - Copacabana, Rio de Janeiro - RJ, 22021-020, Brazil",
+    "website": "http://www.carretaolido.com.br/",
+    "phone": "+55 21 2542-4990",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Churrascaria Nativas Grill | Goiânia | Restaurante | Rodízio",
+    "totalScore": 4.4,
+    "reviewsCount": 12258,
+    "street": "R. 123, 325 - St. Sul, Goiânia - GO, 74093-140, Brazil",
+    "website": "N/A",
+    "phone": "+55 62 3242-0311",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Casa Brazilia",
+    "totalScore": 4.7,
+    "reviewsCount": 1028,
+    "street": "25 Teo Hong Rd, Singapore 088333",
+    "website": "https://www.casabrazilia.sg/",
+    "phone": "+65 9773 7602",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Samba Brazilian Steakhouse",
+    "totalScore": 4.3,
+    "reviewsCount": 2291,
+    "street": "3, Avenue K, 156, Jln Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "website": "http://www.samba-asiagroup.com/",
+    "phone": "+60 3-2711 2911",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Lapa Brazilian Barbecue Subiaco",
+    "totalScore": 4.6,
+    "reviewsCount": 2001,
+    "street": "375 Hay St, Subiaco WA 6008, Australia",
+    "website": "http://lapa.net.au/",
+    "phone": "+61 8 9381 1323",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill Inn",
+    "totalScore": 4.1,
+    "reviewsCount": 1518,
+    "street": "Av. Nossa Sra. de Copacabana, 1182 - Copacabana, Rio de Janeiro - RJ, 22070-012, Brazil",
+    "website": "https://linktr.ee/grillinncopa",
+    "phone": "+55 21 97085-2505",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Churrascaria Estância Campo Belo",
+    "totalScore": 4.5,
+    "reviewsCount": 11532,
+    "street": "Av. Ver. José Diniz, 3271 - Campo Belo, São Paulo - SP, 04603-002, Brazil",
+    "website": "N/A",
+    "phone": "+55 11 5093-3717",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "BIFE Charcoal Steakhouse",
+    "totalScore": 4.1,
+    "reviewsCount": 591,
+    "street": "No. 360, BIFE Charcoal Steakhouse (M) Sdn Bhd, The LINC KL, No. 1-5 & 1-5-F 1st Floor, Commercial Development, Jln Tun Razak, Taman U Thant, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "website": "N/A",
+    "phone": "+60 3-2300 6488",
+    "categoryName": ["restaurant", "point_of_interest", "food", "establishment"]
+  },
+  {
+    "title": "Charcoal Shop .Com",
+    "totalScore": 4.7,
+    "reviewsCount": 48,
+    "street": "2, Jalan Sungai Udang, Taman Aneka Baru, 41100 Klang, Selangor, Malaysia",
+    "website": "https://www.charcoalshop.com/",
+    "phone": "+60 12-206 1822",
+    "categoryName": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Bom de Brasa Churrasco e Lareira",
+    "totalScore": 4.4,
+    "reviewsCount": 119,
+    "street": "Estr. Geral Sitio de Dentro - Vila Becker, Santo Amaro da Imperatriz - SC, 88140-000, Brazil",
+    "website": "http://www.bomdebrasa.com/",
+    "phone": "+55 48 3245-7773",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Brazilian Charcoal BBQ",
+    "totalScore": 4.8,
+    "reviewsCount": 149,
+    "street": "13/7 Bonner Dr, Malaga WA 6090, Australia",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Tomasi Equipamentos para Alimentação e Refrigeração",
+    "totalScore": 3.8,
+    "reviewsCount": 29,
+    "street": "BR-116, 22581 - São Leopoldo, Caxias do Sul - RS, 95080-050, Brazil",
+    "website": "http://www.tomasi.com.br/",
+    "phone": "+55 54 3213-8000",
+    "categoryName": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "FOGO Charcoal",
+    "totalScore": 5,
+    "reviewsCount": 16,
+    "street": "635 W 18th St unit a, Hialeah, FL 33010, USA",
+    "website": "https://www.fogocharcoal.com/",
+    "phone": "+1 877-700-3646",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Brazilian Grill Bbq",
+    "totalScore": 4.9,
+    "reviewsCount": 95,
+    "street": "602 City Rd, South Melbourne VIC 3205, Australia",
+    "website": "http://www.braziliangrill.com.au/",
+    "phone": "+61 447 746 201",
+    "categoryName": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The Que Club",
+    "totalScore": 4.9,
+    "reviewsCount": 572,
+    "street": "3-7 Syme St, Brunswick VIC 3056, Australia",
+    "website": "http://thequeclub.com.au/",
+    "phone": "+61 3 9489 2783",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Brothers Kehdi - Wholesale and Retail",
+    "totalScore": 4.5,
+    "reviewsCount": 737,
+    "street": "Av. Brasil, 1670 - Nossa Sra. Aparecida, Uberlândia - MG, 38400-712, Brazil",
+    "website": "http://www.kehdiemcasa.com.br/",
+    "phone": "+55 34 3233-1313",
+    "categoryName": [
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Garden Center Zona Sul",
+    "totalScore": 4.8,
+    "reviewsCount": 1207,
+    "street": "Rua Golf Clube, 33 - São Conrado, Rio de Janeiro - RJ, 22610-040, Brazil",
+    "website": "http://www.gardencenterzonasul.com.br/",
+    "phone": "+55 21 3734-0774",
+    "categoryName": [
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Horto das Acácias",
+    "totalScore": 4.6,
+    "reviewsCount": 2938,
+    "street": "Estr. de Camorim, 378 - Jacarepaguá, Rio de Janeiro - RJ, 22780-070, Brazil",
+    "website": "http://www.hortodasacacias.com.br/",
+    "phone": "+55 21 99011-9102",
+    "categoryName": [
+      "florist",
+      "general_contractor",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Gardencenter City of Flowers",
+    "totalScore": 4.6,
+    "reviewsCount": 5901,
+    "street": "Rodovia SP-107, km 29,9 S/N, Holambra - SP, 13825-000, Brazil",
+    "website": "http://www.gardencidadedasflores.com.br/",
+    "phone": "+55 19 3802-9636",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Plantei Garden Center Ltda",
+    "totalScore": 4.8,
+    "reviewsCount": 315,
+    "street": "R. Hiran Vila Nova, 949, Salto Grande - SP, 19920-230, Brazil",
+    "website": "http://www.plantei.com.br/",
+    "phone": "+55 14 3378-1382",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Garden Center Landscaping",
+    "totalScore": 4.5,
+    "reviewsCount": 570,
+    "street": "R. Jaguaribe, 134 - Vila Buarque, São Paulo - SP, 01224-001, Brazil",
+    "website": "N/A",
+    "phone": "+55 11 3331-1170",
+    "categoryName": [
+      "florist",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Chacara Tropical",
+    "totalScore": 4.7,
+    "reviewsCount": 1449,
+    "street": "Rua Dom Rosalvo Costa Rêgo - Estrada da Barra da Tijuca, 420 - Barra da Tijuca, Rio de Janeiro - RJ, 22641-040, Brazil",
+    "website": "http://www.chacaratropical.com.br/",
+    "phone": "+55 21 2493-0394",
+    "categoryName": ["florist", "store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Hayes Garden World",
+    "totalScore": 4.4,
+    "reviewsCount": 4372,
+    "street": "Hayes Garden World, Lake Rd, Ambleside LA22 0DW, UK",
+    "website": "http://www.hayesgardenworld.co.uk/",
+    "phone": "+44 15394 33434",
+    "categoryName": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Brazil Plant",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "R. Gonçalves Lêdo, 190 - Sala 401 - Praia de Iracema, Fortaleza - CE, 60110-260, Brazil",
+    "website": "http://brazilplant.com/",
+    "phone": "+55 85 4141-2280",
+    "categoryName": ["florist", "store", "point_of_interest", "establishment"]
+  }
+]

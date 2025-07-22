@@ -1,0 +1,1934 @@
+[
+  {
+    "title": "Pathin Trading Ltd",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Nikita 6-B, Dali Industrial Area, Nicosia, Nicosia 2540, Cyprus",
+    "website": "https://pyrsos.com/",
+    "phone": "+357 22 461006",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Barbeque Star Grills - Foukou Shop",
+    "totalScore": 4.8,
+    "reviewsCount": 27,
+    "street": "76, E709, Peyia 8560, Cyprus",
+    "website": "N/A",
+    "phone": "+357 99 244047",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "The bbq store",
+    "totalScore": 4.5,
+    "reviewsCount": 24,
+    "street": "Γεώργιου Γρίβα Διγενή 45e-1082, Λευκωσία 1082, Cyprus",
+    "website": "http://www.thebbqstore.com.cy/cgibin/hweb?-A=1101,viewnicosia.html&-V=contact",
+    "phone": "+357 22 666452",
+    "categoryName": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "FOUKOUES | Cyprus Barbeque Shop",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Agias Theklis 19, Limassol 4032, Cyprus",
+    "website": "https://foukoues.com/",
+    "phone": "+357 99 790103",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Weber Cyprus",
+    "totalScore": 2,
+    "reviewsCount": 4,
+    "street": "Tseriou 152A, Nicosia 2045, Cyprus",
+    "website": "https://www.webercyprus.com/",
+    "phone": "+357 22 324320",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Two Guys BBQ",
+    "totalScore": 5,
+    "reviewsCount": 12,
+    "street": "Maritime Building, Omonoias 141, Limassol 3045, Cyprus",
+    "website": "http://www.twoguysbbq.com/",
+    "phone": "+357 77 000700",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Webbq365",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Spyrou Kyprianou 55, Germasogeia 4042, Cyprus",
+    "website": "http://www.webbq365.com/",
+    "phone": "+357 96 400900",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "SOUVLAMASTER",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Evagora Pallikaridi 18, Paphos 8010, Cyprus",
+    "website": "http://www.souvlamaster.com/",
+    "phone": "+357 99 090010",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Ximon soaesy Osama",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Larnaca 7060, Cyprus",
+    "website": "N/A",
+    "phone": "+357 96 285500",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Superfoukou Accessories",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Omonoias 70, Limassol 3048, Cyprus",
+    "website": "https://www.facebook.com/superfoukou",
+    "phone": "+357 97 723232",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Φούκου Foukou Boutique",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Ayiou Georgiou 68B, Lakatamia 2304, Cyprus",
+    "website": "http://facebook.com/groups/306235822004057/",
+    "phone": "+357 99 095262",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Theodoros Mavris LTD",
+    "totalScore": 3.4,
+    "reviewsCount": 20,
+    "street": "2P5X+GPP 7510, Cyprus",
+    "website": "http://www.theodorosmavris.com/",
+    "phone": "+357 70 005520",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "P. Mari Best Catering Ltd",
+    "totalScore": 4,
+    "reviewsCount": 8,
+    "street": "Ivikou, Aradippou 7101, Cyprus",
+    "website": "http://www.pmaribestcateringltd.com/",
+    "phone": "+357 99 573716",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "M.S.G. Tradelink Ltd",
+    "totalScore": 4.5,
+    "reviewsCount": 8,
+    "street": "49 Stigos Limassol, Limasol 3117, Cyprus",
+    "website": "http://www.msgtradelink.com/",
+    "phone": "+357 25 387440",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Chrysochos Catering Equipment Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "39PM+R6F, Kilkis 29, Latsia 2234, Cyprus",
+    "website": "http://chrysochosequipment.com/contact/",
+    "phone": "+357 22 486444",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "United Catering Equipment",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Axarnon, Limassol 3056, Cyprus",
+    "website": "https://www.united-ces.com/en/contact",
+    "phone": "+357 77 777724",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "C&A ARISTODEMOU CATER METAL LTD",
+    "totalScore": 5,
+    "reviewsCount": 7,
+    "street": "Dimitri Vikela, Strovolos 2033, Cyprus",
+    "website": "http://www.catermetal.com/",
+    "phone": "+357 22 421457",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "VANORA",
+    "totalScore": 4,
+    "reviewsCount": 1,
+    "street": "VANORA BUILDING, Dimokratias 34, Limassol 3012, Cyprus",
+    "website": "https://www.vanora.org/",
+    "phone": "+357 25 564186",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Cater Market (Catering Equipment)",
+    "totalScore": 3.8,
+    "reviewsCount": 16,
+    "street": "WHPJ+MQ3, Andrea Zakou, Aradippou 7101, Cyprus",
+    "website": "http://www.catermarket.com.cy/",
+    "phone": "+357 99 565506",
+    "categoryName": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Unique Catering Equipment",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "B17 70, Nicosia 1046, Cyprus",
+    "website": "http://www.uniquecater.com/",
+    "phone": "+357 22 456864",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ANCO CATERING EQUIPMENT LTD Headquarters",
+    "totalScore": 4.5,
+    "reviewsCount": 28,
+    "street": "Lamprou Porfyra 5, Strovolos 2033, Cyprus",
+    "website": "http://www.anco.com.cy/",
+    "phone": "+357 22 421375",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Tita's Pinoy Shop",
+    "totalScore": 4.7,
+    "reviewsCount": 6,
+    "street": "Limassol 3035, Cyprus",
+    "website": "N/A",
+    "phone": "+357 25 340109",
+    "categoryName": [
+      "grocery_or_supermarket",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Zith Catering Equipment",
+    "totalScore": 3.9,
+    "reviewsCount": 18,
+    "street": "PGW6+3QF, A6, Ovalık 8507, Cyprus",
+    "website": "http://www.zithnet.com/",
+    "phone": "+357 26 423300",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vatiliotis | Head Office & Showroom",
+    "totalScore": 4,
+    "reviewsCount": 4,
+    "street": "31ABC, Στασίνου, Lefkoşa 1060, Cyprus",
+    "website": "https://vatiliotis.com/",
+    "phone": "+357 22 466196",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Papageorgiou Hotel Equipment",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "Filotheou 16, Paralimni 5286, Cyprus",
+    "website": "https://www.cyprushotelequipment.com/el/",
+    "phone": "+357 23 822560",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Alaska Refrigerators Industry and Catering Equipment Ltd Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Latsia 2234, Cyprus",
+    "website": "http://www.alaskacy.com/",
+    "phone": "+357 22 482082",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "M. Modestou & Sons Ltd",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Λεωφόρος Στροβόλου 329, Στρόβολος, nicosia 2052, Cyprus",
+    "website": "http://www.modestou.com/",
+    "phone": "+357 22 323777",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Veni Cook & Dine Equipment Ltd",
+    "totalScore": 4.9,
+    "reviewsCount": 10,
+    "street": "Industrial Area, Alikou Potamou 23, Dali 2571, Cyprus",
+    "website": "http://www.veni.com.cy/",
+    "phone": "+357 22 270789",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Cater Inox Second hand Equipment by Savvas",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "WHHF+6QC, Aradippou 7101, Cyprus",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Vatiliotis | Showroom",
+    "totalScore": 4,
+    "reviewsCount": 5,
+    "street": "1, Αγίας Φανερωμένης 8041, Baf 8041, Cyprus",
+    "website": "https://vatiliotis.com/",
+    "phone": "+357 26 955003",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Unique Catering Equipment",
+    "totalScore": 4.8,
+    "reviewsCount": 9,
+    "street": "Anatoliko Industrial Zone, Agia Varvara 8501, Cyprus",
+    "website": "https://www.uniquecater.com/",
+    "phone": "+357 26 822324",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "D&A Food Horeca Cyprus",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Konia 8300, Cyprus",
+    "website": "https://www.dacfoods.com/",
+    "phone": "+357 26 932746",
+    "categoryName": ["food", "point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Get Out Outdoor Store",
+    "totalScore": 4.7,
+    "reviewsCount": 54,
+    "street": "Arsinois 18A, Strovolos 2006, Cyprus",
+    "website": "http://www.getout.cy/",
+    "phone": "+357 22 311012",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Survival Sports Diving and Outdoor Equipment in Cyprus",
+    "totalScore": 4.5,
+    "reviewsCount": 41,
+    "street": "Makedonitissis 66, Strovolos 2057, Cyprus",
+    "website": "http://www.survivalbuddies.com/",
+    "phone": "+357 22 680230",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "COS - Cyprus Outdoor Shop",
+    "totalScore": 4.4,
+    "reviewsCount": 23,
+    "street": "Mehmet Akif Cd 107-A, Lefkoşa 9010",
+    "website": "http://www.cyprusoutdoorshop.com/",
+    "phone": "+90 392 227 82 80",
+    "categoryName": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Roam Cyprus",
+    "totalScore": 4.9,
+    "reviewsCount": 19,
+    "street": "Αρχιεπισκόπου Μακαρίου Γ' 55 Meneou, 7000, Çite 7000, Cyprus",
+    "website": "N/A",
+    "phone": "+357 99 031036",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "LKI Outdoor & Tactical shop",
+    "totalScore": 4.8,
+    "reviewsCount": 28,
+    "street": "Dorieon 11B, Lefkoşa 2023, Cyprus",
+    "website": "https://www.facebook.com/lellakentonis",
+    "phone": "+357 22 442252",
+    "categoryName": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "GreenBlue Outdoors Ltd",
+    "totalScore": 4.8,
+    "reviewsCount": 42,
+    "street": "Andrea Araouzou 20, Kato Polemidia 4150, Cyprus",
+    "website": "N/A",
+    "phone": "+357 25 338348",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "COS - Cyprus Outdoor Shop",
+    "totalScore": 4.6,
+    "reviewsCount": 72,
+    "street": "Karaoğlanoğlu Cd 16A, Girne 9300",
+    "website": "http://www.cyprusoutdoorshop.com/",
+    "phone": "+90 533 850 27 07",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ACEPLAYMORE",
+    "totalScore": 4.9,
+    "reviewsCount": 25,
+    "street": "Androkleous 9, Nicosia 1060, Cyprus",
+    "website": "http://www.aceplaymore.com/",
+    "phone": "+357 22 496318",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Super Action Outdoor World",
+    "totalScore": 4.1,
+    "reviewsCount": 7,
+    "street": "Limnis 3, Δερύνεια 5380, Cyprus",
+    "website": "http://www.superaction.com.cy/",
+    "phone": "+357 23 825180",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Black Rhino Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 9,
+    "street": "Kampou 18, Strovolos 2330, Cyprus",
+    "website": "https://blackrhinocy.com/",
+    "phone": "+357 22 252424",
+    "categoryName": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Aetos Hunting Store",
+    "totalScore": 4.6,
+    "reviewsCount": 22,
+    "street": "Γρηγόρη Αυξεντίου 21-2460, Lefkoşa 2460, Cyprus",
+    "website": "http://www.aetoshunting.com/",
+    "phone": "+357 22 624222",
+    "categoryName": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Mavros Ltd - Strovolos Store",
+    "totalScore": 4.3,
+    "reviewsCount": 191,
+    "street": "Athinon 48, Strovolos 2040, Cyprus",
+    "website": "https://www.mavros.com.cy/",
+    "phone": "+357 80 000400",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Super Action Sports & Toys",
+    "totalScore": 4.5,
+    "reviewsCount": 119,
+    "street": "Limnis 3 Deryneia, Famagusta, Cyprus, Deryneia 5380, Cyprus",
+    "website": "http://www.superaction.com.cy/",
+    "phone": "+357 23 825180",
+    "categoryName": [
+      "shopping_mall",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "H&A Strovolos 1 Fishing & Hunting",
+    "totalScore": 4.7,
+    "reviewsCount": 101,
+    "street": "Strovolou 132, Strovolos 2042, Cyprus",
+    "website": "http://www.hastrovolos.com/",
+    "phone": "+357 22 329009",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Alışveriş Canavarı",
+    "totalScore": 4.5,
+    "reviewsCount": 13,
+    "street": "Metehan, Kemal Şemiler Cd, Lefkoşa 99010",
+    "website": "http://www.alisveriscanavari.net/",
+    "phone": "+90 533 832 22 62",
+    "categoryName": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Superhome Center Limassol",
+    "totalScore": 4,
+    "reviewsCount": 1164,
+    "street": "8 Pavlou Liaside str, Mesa Geitonia Limassol CY 4004, Pavlou Mela, Limassol 4004, Cyprus",
+    "website": "https://www.superhome.com.cy/",
+    "phone": "+357 25 203333",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "FERMA - HUNTING SUPPLIES",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "FERMA - HUNTING SUPPLIES, Κώστα Καρνάβαλου 33, Baf 8010, Cyprus",
+    "website": "N/A",
+    "phone": "+357 99 426049",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ISLAND 4X4 PARTS & OUTDOOR",
+    "totalScore": 3.7,
+    "reviewsCount": 3,
+    "street": "Alirıza Efendi Caddesi Vakıflar, İşhanı 51/A, Lefkoşa 99010",
+    "website": "N/A",
+    "phone": "+90 533 864 97 64",
+    "categoryName": [
+      "clothing_store",
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Heaven Surfhouse",
+    "totalScore": 4.6,
+    "reviewsCount": 74,
+    "street": "Heaven Surfhouse, Ecevit Cd, Yedidalga 0090",
+    "website": "https://www.heavensurfhouse.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7470796749835458299",
+    "phone": "+90 533 888 96 66",
+    "categoryName": [
+      "campground",
+      "cafe",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "San Siro Sports & Casual",
+    "totalScore": 4.9,
+    "reviewsCount": 30,
+    "street": "E305 34, Deryneia 5380, Cyprus",
+    "website": "http://www.sansirosports.com/",
+    "phone": "+357 23 820700",
+    "categoryName": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Spa Bar",
+    "totalScore": 4.7,
+    "reviewsCount": 252,
+    "street": "Evanthias Pieridou 4, Finikoudes Larnaka, Larnaca 6022, Cyprus",
+    "website": "https://spabarlarnaca.com/",
+    "phone": "+357 24 322729",
+    "categoryName": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Spa Buddha",
+    "totalScore": 4.9,
+    "reviewsCount": 595,
+    "street": "Spa BUDDHA, Karaoğlanoğlu Cd 129, Alsancak 9930",
+    "website": "https://spabuddha.com/",
+    "phone": "+90 539 108 65 75",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Suenso Spa",
+    "totalScore": 4.9,
+    "reviewsCount": 219,
+    "street": "Platonos 14A, Limassol 3090, Cyprus",
+    "website": "http://www.suensospa.com/",
+    "phone": "+357 25 256560",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Thai Spa Centre",
+    "totalScore": 4.5,
+    "reviewsCount": 66,
+    "street": "Georgiou 'A 32, Limassol 4047, Cyprus",
+    "website": "http://thaispa.com.cy/",
+    "phone": "+357 25 370222",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Hamam Omerye",
+    "totalScore": 4.5,
+    "reviewsCount": 393,
+    "street": "Square, Platia Tillirias 8, Nicosia 1016, Cyprus",
+    "website": "http://www.hamamomerye.com/",
+    "phone": "+357 22 460006",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Nudeless Lounge Wellness & Spa",
+    "totalScore": 4.8,
+    "reviewsCount": 80,
+    "street": "Patron 10, Larnaca 6051, Cyprus",
+    "website": "N/A",
+    "phone": "+357 24 250260",
+    "categoryName": [
+      "physiotherapist",
+      "spa",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "beauty_salon",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Stress Away",
+    "totalScore": 4.8,
+    "reviewsCount": 74,
+    "street": "Kirzis Center, Emmanuel Lykoudis 44-Block B, Limassol 3034, Cyprus",
+    "website": "N/A",
+    "phone": "+357 97 558889",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Sesto Senso Wellness Care",
+    "totalScore": 4.9,
+    "reviewsCount": 62,
+    "street": "NOE 3, Limassol 3117, Cyprus",
+    "website": "https://healthcarecy.com/",
+    "phone": "+357 25 734724",
+    "categoryName": [
+      "beauty_salon",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vita Spa",
+    "totalScore": 4.8,
+    "reviewsCount": 22,
+    "street": "Thesalonikis 55, Limassol 3025, Cyprus",
+    "website": "http://www.vitaspa.com.cy/",
+    "phone": "+357 25 351955",
+    "categoryName": [
+      "gym",
+      "spa",
+      "hair_care",
+      "health",
+      "store",
+      "point_of_interest",
+      "beauty_salon",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Aegeo Spas",
+    "totalScore": 5,
+    "reviewsCount": 17,
+    "street": "PCRM+7G6, Poseidonos Ave, Yeroskipou 8204, Cyprus",
+    "website": "http://hotels.aegeospas.gr/",
+    "phone": "+357 26 913555",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Secret Forest | Wellness Retreat & Healing Spa",
+    "totalScore": 4.5,
+    "reviewsCount": 1425,
+    "street": "Miliou 8726, Cyprus",
+    "website": "https://secretfo.rest/",
+    "phone": "+357 26 814000",
+    "categoryName": [
+      "gym",
+      "spa",
+      "lodging",
+      "restaurant",
+      "food",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "NewMe Spa",
+    "totalScore": 4.7,
+    "reviewsCount": 22,
+    "street": "Ithakis 11, Strovolos 2058, Cyprus",
+    "website": "https://www.newmespacy.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=spa",
+    "phone": "+357 22 256291",
+    "categoryName": [
+      "spa",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "beauty_salon",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Earth Spa Larnaca",
+    "totalScore": 4.5,
+    "reviewsCount": 51,
+    "street": "Panorama Court, Costa Markidi 10, Larnaca 6028, Cyprus",
+    "website": "https://earthspa.com.cy/",
+    "phone": "+357 24 658808",
+    "categoryName": [
+      "spa",
+      "beauty_salon",
+      "gym",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Ho'Pono Massage Studio Nicosia",
+    "totalScore": 5,
+    "reviewsCount": 142,
+    "street": "E927 169A, Strovolos 2046, Cyprus",
+    "website": "https://hoponomassage.com/",
+    "phone": "+357 96 537959",
+    "categoryName": ["spa", "health", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Aelia Wellness",
+    "totalScore": 3.9,
+    "reviewsCount": 159,
+    "street": "150, Grigoriou Afxentiou, Nicosia 2641, Cyprus",
+    "website": "http://aeliawellness.com.cy/",
+    "phone": "+357 22 015590",
+    "categoryName": [
+      "spa",
+      "lodging",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vitality Spa & Wellness center",
+    "totalScore": 5,
+    "reviewsCount": 16,
+    "street": "Βυζακιάς 4, Protaras 5297, Cyprus",
+    "website": "N/A",
+    "phone": "+357 23 832043",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "StressLess Massage Therapy Paphos",
+    "totalScore": 5,
+    "reviewsCount": 41,
+    "street": "Pyramou 2, Paphos 8046, Cyprus",
+    "website": "https://stresslessmassagetherapypaphos.simplybook.it/",
+    "phone": "+357 96 248681",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ILANA-BEAUTY & SPA PAPHOS , Beauty and Wellness Center, Energy Treatments, Energy Massage Therapist",
+    "totalScore": 4.9,
+    "reviewsCount": 108,
+    "street": "QC49+C68, Poseidonos Ave, Kato 8042, Cyprus",
+    "website": "http://www.ilana-beauty.com/",
+    "phone": "+357 96 642464",
+    "categoryName": [
+      "beauty_salon",
+      "hair_care",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Büyük Hamam",
+    "totalScore": 4.3,
+    "reviewsCount": 149,
+    "street": "İrfan Bey Sk 9, Lefkoşa 99010",
+    "website": "http://www.nicosiagrandturkishbath.com/",
+    "phone": "+90 533 886 02 06",
+    "categoryName": ["spa", "health", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Marrakech SPA / Morocan Massage & Hamam",
+    "totalScore": 4.6,
+    "reviewsCount": 191,
+    "street": "5330, 27 Αρχιεπισκόπου Μακαρίου ΄Γ Ayia Napa, Ayia Napa 5330, Cyprus",
+    "website": "http://www.marrakechspacyprus.com/",
+    "phone": "+357 99 812051",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "HEATAIRCON LTD",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "Tseriou 128, Nicosia 2044, Cyprus",
+    "website": "http://www.heataircon.com.cy/",
+    "phone": "+357 77 772425",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Rionello Trading LTD",
+    "totalScore": 3.7,
+    "reviewsCount": 27,
+    "street": "E902 93, Nicosia 2020, Cyprus",
+    "website": "https://www.rionello.com/",
+    "phone": "+357 22 499023",
+    "categoryName": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "IA.SA. ELECTROTHERM LTD",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Inomenon Ethnon, Larnaca 6042, Cyprus",
+    "website": "http://www.iasaelectrotherm.com/",
+    "phone": "+357 24 635780",
+    "categoryName": [
+      "home_goods_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "BEST COOL LTD",
+    "totalScore": 4.7,
+    "reviewsCount": 47,
+    "street": "Lykavitou 48, Egkomi Lefkosias 2401, Cyprus",
+    "website": "https://bestcool.com.cy/",
+    "phone": "+357 22 325540",
+    "categoryName": [
+      "general_contractor",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Condeana C. E. Ltd",
+    "totalScore": 4.8,
+    "reviewsCount": 4,
+    "street": "Steliou Kyriakidi 27, Limassol 3080, Cyprus",
+    "website": "http://www.condeana.com/",
+    "phone": "+357 25 737550",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Metalco (Heaters) Ltd",
+    "totalScore": 4.8,
+    "reviewsCount": 4,
+    "street": "44 Propylaeon Street Strovolos, Strovolos 2033, Cyprus",
+    "website": "http://www.metalcoheaters.com.cy/",
+    "phone": "+357 22 425382",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "OPUS Electrical Technologies Ltd",
+    "totalScore": 4,
+    "reviewsCount": 6,
+    "street": "Κεντρο Πολης, Andrea Michalakopoulou 13A, Nicosia 1075, Cyprus",
+    "website": "http://www.opuselectrical.com.cy/articles/view/contact-us",
+    "phone": "+357 22 516020",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Perana-Caladon Trading LTD",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "13 Pireos Street, Nicosia 2102, Cyprus",
+    "website": "http://peranacaladon.com/",
+    "phone": "+357 22 333698",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Tasapro Ltd",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "Enotitos 26, Nicosia 1041, Cyprus",
+    "website": "http://www.tasapro.com.cy/",
+    "phone": "+357 22 459770",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Panthermiki Nicosia Ltd",
+    "totalScore": 4.5,
+    "reviewsCount": 15,
+    "street": "Parnassou 2, Strovolos 2043, Cyprus",
+    "website": "http://www.panthermiki.com.cy/",
+    "phone": "+357 22 327116",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Diana Solar Heaters Cyprus",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Akamantos 19, Strovolos 2045, Cyprus",
+    "website": "N/A",
+    "phone": "+357 80 010220",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Arimec Trading Ltd",
+    "totalScore": 4.8,
+    "reviewsCount": 64,
+    "street": "Propylaion 1, Strovolos 2033, Cyprus",
+    "website": "https://www.arimec.eu/",
+    "phone": "+357 22 460240",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Kafson Solar Heaters Ltd",
+    "totalScore": 4.3,
+    "reviewsCount": 28,
+    "street": "Arch Makariou III Avenue, Yeroskipou 8310, Cyprus",
+    "website": "https://www.kafson.com/",
+    "phone": "+357 70 008182",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Vesta Solar Heaters Ltd",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Σπύρου Κυπριανού 15, Βιομηχανική Περιοχή Εργατών, Λευκωσία 2643, Cyprus",
+    "website": "https://www.vestasolar.com/",
+    "phone": "+357 22 623320",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Solar BEST Ltd",
+    "totalScore": 5,
+    "reviewsCount": 25,
+    "street": "Michael Zavou 102, Agios Athanasios 4107, Cyprus",
+    "website": "https://www.solar-best.com/",
+    "phone": "+357 70 001767",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Arenco",
+    "totalScore": 4.8,
+    "reviewsCount": 6,
+    "street": "Propylaion 2, Strovolos 2033, Cyprus",
+    "website": "http://www.arenco.com.cy/",
+    "phone": "+357 22 312706",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Sunwood Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Mykinon 1-Office 201, Nicosia 1065, Cyprus",
+    "website": "http://www.sunwoodcyprus.com/",
+    "phone": "+357 22 769121",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "THRIAMVOS SOLAR HEATERS LTD",
+    "totalScore": 4.9,
+    "reviewsCount": 9,
+    "street": "Psiloreiti 12, Aradippou 7101, Cyprus",
+    "website": "http://www.solarthriamvos.com/",
+    "phone": "+357 70 000039",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Hydrotherm Nicosia",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Strovolou 77, Strovolos 2018 Nicosia, Στροβόλου, Strovolos 2018, Cyprus",
+    "website": "N/A",
+    "phone": "+357 22 447944",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Matero Limited",
+    "totalScore": 3.7,
+    "reviewsCount": 3,
+    "street": "Steliou Kiriakidi 37, Limassol 3080, Cyprus",
+    "website": "http://www.matero.com.cy/",
+    "phone": "+357 25 870030",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Atmistarea vape shop, Nicosia, Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 58,
+    "street": "Digeni Akrita, 71a&b 1070, Cyprus",
+    "website": "https://www.atmistarea.com/",
+    "phone": "+357 99 271227",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "VAPE MOD BOX ,vape shop, e liquid ,ecig,mod,coil, vapor store, 7 11",
+    "totalScore": 4.4,
+    "reviewsCount": 80,
+    "street": "Nikolaou I. Nikolaidi Ave 3, Paphos 8010, Cyprus",
+    "website": "https://www.vapemodbox.com/",
+    "phone": "+357 96 503505",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Ew disposable bars. Χονδρική πώληση Ηλεκτρονικά Τσιγάρα μίας χρήσης",
+    "totalScore": 4.5,
+    "reviewsCount": 31,
+    "street": "Kallipoleos 14, Nicosia 1055, Cyprus",
+    "website": "https://www.ewsale.com/",
+    "phone": "+357 99 686618",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Titos Vape Shop Griva Digeni",
+    "totalScore": 4.6,
+    "reviewsCount": 149,
+    "street": "Georgiou Griva Digeni 83A, Limassol 3101, Cyprus",
+    "website": "https://www.titosecig.com/",
+    "phone": "+357 25 580050",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "The Vape Shop Cy",
+    "totalScore": 4.9,
+    "reviewsCount": 37,
+    "street": "Eleftherias 50, Lakatamia 2350, Cyprus",
+    "website": "https://www.facebook.com/VapeShopCy",
+    "phone": "+357 99 888804",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Holysmoke",
+    "totalScore": 4.8,
+    "reviewsCount": 70,
+    "street": "Sveltos Court, Ayiou Georgiou Makri 2-Shop 2, Larnaca 6036, Cyprus",
+    "website": "http://www.holysmoke.com.cy/",
+    "phone": "+357 99 564116",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Vape Shack",
+    "totalScore": 4.9,
+    "reviewsCount": 11,
+    "street": "73 Archbishop Makarios III Chloraka, Baf 8221, Cyprus",
+    "website": "N/A",
+    "phone": "+357 97 712946",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Just Vape",
+    "totalScore": 5,
+    "reviewsCount": 162,
+    "street": "57, Athalassas Avenue NICOSIA, Cyprus 2012, Cyprus",
+    "website": "http://justvape.eu/",
+    "phone": "+357 22 254442",
+    "categoryName": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vape Culture",
+    "totalScore": 4.9,
+    "reviewsCount": 35,
+    "street": "Thermopylon shop 6 Lamanco center Larnaca, Larnaka 6023, Cyprus",
+    "website": "https://vape-culture-larnaca.com/",
+    "phone": "+357 99 062643",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Joker Vape Shop",
+    "totalScore": 4.9,
+    "reviewsCount": 21,
+    "street": "Polis Crysochous Βασιλέως Φιλίππου 6 Polis Crysochous, Polis Crysochous 8820, Cyprus",
+    "website": "https://m.facebook.com/JokerVapeShop/?ref=bookmarks",
+    "phone": "+357 99 494144",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "vape store paphos 7to11kiosk & vape masouras",
+    "totalScore": 4.6,
+    "reviewsCount": 11,
+    "street": "Nikolaou I. Nikolaidi Ave 3, Paphos 8010, Cyprus",
+    "website": "https://www.facebook.com/vapecyprus/",
+    "phone": "+357 26 939100",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Nathanael 24hours Vape Shop",
+    "totalScore": 4.3,
+    "reviewsCount": 15,
+    "street": "Τσερίου, Lakatamia 2314, Cyprus",
+    "website": "N/A",
+    "phone": "+357 96 834003",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "IQOS Island",
+    "totalScore": 3,
+    "reviewsCount": 10,
+    "street": "My Mall, Franklin Roosevelt 285, Limassol 3150, Cyprus",
+    "website": "https://cy.iqos.com/gr/locator?utm_id=13100436&utm_campaign=PMI_Listings&utm_source=gmb&utm_medium=organic&utm_content=IQOS_Store&utm_term=CY_IQOS_Island&utm_cgid=SEAR-MAPS",
+    "phone": "+357 80 008803",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "VenomZ_VapeShopCy",
+    "totalScore": 4.8,
+    "reviewsCount": 22,
+    "street": "E305 38, Deryneia 5380, Cyprus",
+    "website": "N/A",
+    "phone": "+357 23 826826",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Vape Store Tobiana",
+    "totalScore": 4.3,
+    "reviewsCount": 30,
+    "street": "Αποστόλου Παύλου 54 Πάφος Αποστόλου Παύλου 54, Paphos 8046, Cyprus",
+    "website": "https://www.facebook.com/VapestoreKatoPaphos/",
+    "phone": "+357 26 100509",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "ElectroVape Mall of Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Verginas 3, Strovolos 2025, Cyprus",
+    "website": "https://www.electrovape.eu/",
+    "phone": "+357 22 262048",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "TALIOTIS KIOSK&VAPE",
+    "totalScore": 4.6,
+    "reviewsCount": 45,
+    "street": "Ippokratous 4, Yeroskipou 8201, Cyprus",
+    "website": "https://atmismacy.com/en/",
+    "phone": "+357 26 960960",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Royal Vape Latsia",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Archbishop Makarios III 88, Latsia 2224, Cyprus",
+    "website": "https://www.royalvape.com.cy/",
+    "phone": "+357 77 776099",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Royal Vape Stavrou",
+    "totalScore": 4.9,
+    "reviewsCount": 61,
+    "street": "Stavrou 96B, Strovolos Nicosia CY 2034, Stavrou 96, Strovolos 2034, Cyprus",
+    "website": "http://www.royalvape.com.cy/",
+    "phone": "+357 77 776099",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ElectroVape LTD - Central",
+    "totalScore": 4.9,
+    "reviewsCount": 49,
+    "street": "Nikis 36C, Nicosia 1086, Cyprus",
+    "website": "http://www.electrovape.eu/",
+    "phone": "+357 22 262199",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Costas Charalambides & Sons Ltd",
+    "totalScore": 4.4,
+    "reviewsCount": 7,
+    "street": "5 Stasinou Street Dali Industrial Area Nicosia, Δάλι 2540, Cyprus",
+    "website": "http://www.costascharalambides.com/",
+    "phone": "+357 22 323251",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Theoktisto Trading Co Ltd",
+    "totalScore": 4.7,
+    "reviewsCount": 13,
+    "street": "Spyrou Kyprianou Avenue 199, Lefkoşa 2044, Cyprus",
+    "website": "http://theoktisto.com/",
+    "phone": "+357 22 322898",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Mr. Bricolage Cyprus",
+    "totalScore": 4.4,
+    "reviewsCount": 313,
+    "street": "Archimandritou Makariou Machairiotou, Larnaka 6051, Cyprus",
+    "website": "https://www.mrbricolage.com.cy/",
+    "phone": "+357 24 823938",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Pathin Trading Ltd",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Nikita 6-B, Dali Industrial Area, Nicosia, Nicosia 2540, Cyprus",
+    "website": "https://pyrsos.com/",
+    "phone": "+357 22 461006",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "GLYKIS DIY HOME CENTER",
+    "totalScore": 4.9,
+    "reviewsCount": 43,
+    "street": "Πόλη Χρυσοχούς, E713 24, Poli Crysochous 8830, Cyprus",
+    "website": "http://www.glykis.com.cy/",
+    "phone": "+357 26 815252",
+    "categoryName": [
+      "department_store",
+      "home_goods_store",
+      "car_repair",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Κάρβουνα Onirous/ Onirous Charcoal",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Agia Varvara 2560, Cyprus",
+    "website": "N/A",
+    "phone": "+357 99 598238",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Weber Cyprus",
+    "totalScore": 2,
+    "reviewsCount": 4,
+    "street": "Tseriou 152A, Nicosia 2045, Cyprus",
+    "website": "https://www.webercyprus.com/",
+    "phone": "+357 22 324320",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Papantoniou Supermarket Kato Paphos",
+    "totalScore": 4.6,
+    "reviewsCount": 1266,
+    "street": "4, Lidas Street, Kato Paphos, QC47+J8W, Lidas 4, Paphos 8041, Cyprus",
+    "website": "http://www.papantoniou.com.cy/",
+    "phone": "+357 26 911000",
+    "categoryName": [
+      "supermarket",
+      "cafe",
+      "grocery_or_supermarket",
+      "bakery",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "myGRILL",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "Gordiou Desmou, Aradippou 7101, Cyprus",
+    "website": "http://my-grill.eu/",
+    "phone": "+357 24 694755",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "CORAL GAS CYPRUS",
+    "totalScore": 4.7,
+    "reviewsCount": 14,
+    "street": "Irene Tower, Athalassas Ave 178-3rd Floor, Nicosia 2025, Cyprus",
+    "website": "https://www.coralgas.gr/en/h-coral-gas-sthn-kypro/",
+    "phone": "+357 70 001000",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "FOUKOUES | Cyprus Barbeque Shop",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Agias Theklis 19, Limassol 4032, Cyprus",
+    "website": "https://foukoues.com/",
+    "phone": "+357 99 790103",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Volcano Stores",
+    "totalScore": 4.7,
+    "reviewsCount": 29,
+    "street": "Strovolou 18 2011, Strovolos 2011, Cyprus",
+    "website": "http://volcanostores.com/index.php?lang=en",
+    "phone": "+357 22 757576",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Pilacouris Trading Co. Ltd",
+    "totalScore": 5,
+    "reviewsCount": 6,
+    "street": "Spyrou Kyprianou Ave 17, Ypsonas 4193, Cyprus",
+    "website": "https://pilacouristrading.com/",
+    "phone": "+357 25 343160",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Vinox Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "Viotechniki Zoni, Odos Kotza Tepe, Block D, No 1 Larnaca, Larnaca 6025, Cyprus",
+    "website": "https://vinoxcyprus.com/",
+    "phone": "+357 99 607248",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "HolySmoke ShishaBar Hookah Store | Pickup and Returns Only",
+    "totalScore": 5,
+    "reviewsCount": 140,
+    "street": "Sveltos Court, Ayiou Georgiou Makri 2-Shop 2, Larnaca 6036, Cyprus",
+    "website": "https://holysmokeshishabar.com.cy/",
+    "phone": "+357 99 071944",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "acti-Tube",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "Neas Egkomis 1B, Nicosia 2409, Cyprus",
+    "website": "http://acti-tube.com/",
+    "phone": "+357 96 533000",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Charcoal Grill",
+    "totalScore": 4.5,
+    "reviewsCount": 341,
+    "street": "4Z Glafkos House, Kanika Enaerios Complex, John F. Kennedy Str, Limassol 3106, Cyprus",
+    "website": "https://www.facebook.com/Charcoal-Grill-1538842409726910/",
+    "phone": "+357 25 589397",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "D. Papadouris Diy ltd",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Leoforos, Agiou Athanasiou 2, Limassol 4102, Cyprus",
+    "website": "N/A",
+    "phone": "+357 25 720133",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Prodromos Hadjikyriakos & Son Ltd",
+    "totalScore": 4.1,
+    "reviewsCount": 28,
+    "street": "Near Garlsberg factory, opposite new petrolina station, Giannou Kranidioti 200, Latsia 2235, Cyprus",
+    "website": "http://www.prodromos24hrs.com/",
+    "phone": "+357 96 589249",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "general_contractor",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "HeatMaster Cyprus",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "Georgiou Griva Digeni 53, Larnaca 6045, Cyprus",
+    "website": "http://www.heatmaster.com.cy/",
+    "phone": "+357 99 524328",
+    "categoryName": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Caliente Lounge & Shisha Bar.",
+    "totalScore": 4.7,
+    "reviewsCount": 272,
+    "street": "Constantias 11, Paphos 8041, Cyprus",
+    "website": "https://www.instagram.com/caliente_shisha_loungebar?igsh=MWZ5ZjcxY3ZxM2R3Nw==",
+    "phone": "+357 96 386011",
+    "categoryName": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "HOOKAH LOUNGE Limassol",
+    "totalScore": 4.7,
+    "reviewsCount": 170,
+    "street": "Pamelva court, Georgiou Griva Digeni 2, Limassol 3035, Cyprus",
+    "website": "https://hookahlounge.cy/",
+    "phone": "+357 96 001999",
+    "categoryName": [
+      "meal_takeaway",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "SmoClock Hookah Bar",
+    "totalScore": 4.8,
+    "reviewsCount": 81,
+    "street": "Thermopylon Rd 67, Paphos 8016, Cyprus",
+    "website": "http://www.instagram.com/smoclock_",
+    "phone": "+357 99 196959",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Monterno Kafeneio",
+    "totalScore": 4.9,
+    "reviewsCount": 19,
+    "street": "John F. Kennedy 2c, Enaerios 3106, Cyprus",
+    "website": "N/A",
+    "phone": "+357 25 591901",
+    "categoryName": [
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Viento shisha lounge bar",
+    "totalScore": 4.7,
+    "reviewsCount": 182,
+    "street": "Pafias Afroditis 14, Paphos 8041, Cyprus",
+    "website": "N/A",
+    "phone": "+357 96 824066",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "SMOKY OCEAN",
+    "totalScore": 4.8,
+    "reviewsCount": 85,
+    "street": "Thesalonikis 9, Limassol 3025, Cyprus",
+    "website": "https://instagram.com/smokyocean_limassol?igshid=OGQ5ZDc2ODk2ZA==",
+    "phone": "+357 25 221833",
+    "categoryName": [
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Hookah Cafe Restaurant",
+    "totalScore": 4.5,
+    "reviewsCount": 198,
+    "street": "Vyzantiou 12, Strovolos 2064, Cyprus",
+    "website": "https://instagram.com/hookah_bar_cafe?igshid=MzNlNGNkZWQ4Mg==",
+    "phone": "+357 96 510510",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "The White Park Coffee & Bar",
+    "totalScore": 4.4,
+    "reviewsCount": 103,
+    "street": "Anıttepe Caddesi No: 2/A Hamitköy, Lefkoşa 99040",
+    "website": "N/A",
+    "phone": "+90 533 885 86 34",
+    "categoryName": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Lounge Area",
+    "totalScore": 5,
+    "reviewsCount": 49,
+    "street": "Kolonakiou 43, Limassol 4103, Cyprus",
+    "website": "https://instagram.com/loungearealimassol?igshid=YmMyMTA2M2Y=",
+    "phone": "+357 25 004222",
+    "categoryName": ["night_club", "bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "HookahPlace Limassol",
+    "totalScore": 4.5,
+    "reviewsCount": 82,
+    "street": "Agiou Andreou 239, Limassol 3036, Cyprus",
+    "website": "https://hpmenu.org/",
+    "phone": "+357 25 384420",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Loft Shisha Lounge",
+    "totalScore": 4.7,
+    "reviewsCount": 201,
+    "street": "Eleftherias 22, Limassol 3042, Cyprus",
+    "website": "http://www.loftshishalounge.com/",
+    "phone": "+357 77 774577",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Narghile Lounge Bar",
+    "totalScore": 4.3,
+    "reviewsCount": 102,
+    "street": "Stasinou 15a, Egkomi Lefkosias 2404, Cyprus",
+    "website": "N/A",
+    "phone": "+357 22 681686",
+    "categoryName": ["cafe", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "River Rock Cocktail Bar & Shisha Lounge",
+    "totalScore": 4.5,
+    "reviewsCount": 62,
+    "street": "Αγία Νάπα, Kryou Nerou 21, Ayia Napa 5343, Cyprus",
+    "website": "http://www.riverrockhotel.com.cy/",
+    "phone": "+357 23 722722",
+    "categoryName": ["night_club", "bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Benjamin Lounge Bar",
+    "totalScore": 4.7,
+    "reviewsCount": 36,
+    "street": "Ayiou Kendea 30, Paphos 8046, Cyprus",
+    "website": "N/A",
+    "phone": "+357 96 640848",
+    "categoryName": [
+      "bar",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Lux Lounge",
+    "totalScore": 4.9,
+    "reviewsCount": 35,
+    "street": "Themistokli Dervi 27k, Nicosia 1066, Cyprus",
+    "website": "http://www.luxlounge.eu/",
+    "phone": "+357 99 164836",
+    "categoryName": ["night_club", "bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Shisha Palace Gima Cafe",
+    "totalScore": 4.9,
+    "reviewsCount": 101,
+    "street": "Archiepiskopou Makariou III, Larnaca 6017, Cyprus",
+    "website": "https://www.facebook.com/ShishaPalaceLarnaca/",
+    "phone": "+357 96 447173",
+    "categoryName": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Shisha Boss Black Out",
+    "totalScore": 4.8,
+    "reviewsCount": 169,
+    "street": "Thermopylon Rd 54, Paphos 8010, Cyprus",
+    "website": "https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=bd6c9d83-33e9-4602-8c8e-3d47b08028ff&dine_in=true",
+    "phone": "+357 96 757077",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Rami's Cafe",
+    "totalScore": 4.2,
+    "reviewsCount": 17,
+    "street": "59C6+5V2, Hippocratous, Nicosia 1011, Cyprus",
+    "website": "N/A",
+    "phone": "+357 22 666601",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Central Shisha Lounge Bar",
+    "totalScore": 4.8,
+    "reviewsCount": 170,
+    "street": "Thermopilon 6, Larnaca 6023, Cyprus",
+    "website": "N/A",
+    "phone": "+357 96 069000",
+    "categoryName": ["bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Park Nargile",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Kervansaray Mevkii, Karaoğlanoğlu 9930",
+    "website": "N/A",
+    "phone": "+90 533 833 85 47",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Barbeque Star Grills - Foukou Shop",
+    "totalScore": 4.8,
+    "reviewsCount": 27,
+    "street": "76, E709, Peyia 8560, Cyprus",
+    "website": "N/A",
+    "phone": "+357 99 244047",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "BBQ House Restaurant",
+    "totalScore": 3.1,
+    "reviewsCount": 8,
+    "street": "X2FQ+9F, Ayia Napa 5330, Cyprus",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Bigos Grill Sanayi",
+    "totalScore": 4.6,
+    "reviewsCount": 173,
+    "street": "29. Sk 4, Lefkoşa 99010",
+    "website": "https://www.facebook.com/Bigosgrill/",
+    "phone": "+90 392 444 00 02",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "THYMARI",
+    "totalScore": 4.5,
+    "reviewsCount": 1448,
+    "street": "Πλατεία Συντάγματος 3, Είσοδος παλιού λιμανιού, Limassol 3042, Cyprus",
+    "website": "https://www.facebook.com/thimarirestaurants/?ref=page_internal",
+    "phone": "+357 25 333441",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The BBQ house",
+    "totalScore": 4.9,
+    "reviewsCount": 15,
+    "street": "Ifigenias 36Β, Nicosia 2007, Cyprus",
+    "website": "N/A",
+    "phone": "+357 94 086664",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "BARBEQUE PROJECT",
+    "totalScore": 4.9,
+    "reviewsCount": 117,
+    "street": "Faneromenis 212, Larnaca 6037, Cyprus",
+    "website": "N/A",
+    "phone": "+357 24 252082",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Charcoal Grill",
+    "totalScore": 4.5,
+    "reviewsCount": 341,
+    "street": "4Z Glafkos House, Kanika Enaerios Complex, John F. Kennedy Str, Limassol 3106, Cyprus",
+    "website": "https://www.facebook.com/Charcoal-Grill-1538842409726910/",
+    "phone": "+357 25 589397",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Tamala",
+    "totalScore": 4.7,
+    "reviewsCount": 697,
+    "street": "15 Aggeloktistis,, Kiti 7550, Cyprus",
+    "website": "N/A",
+    "phone": "+357 24 427676",
+    "categoryName": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "THE GARRISON BAR & GRILL",
+    "totalScore": 4,
+    "reviewsCount": 310,
+    "street": "Porfyriou Dikaiou 16, Egkomi Lefkosias 2414, Cyprus",
+    "website": "https://www.thegarrisoncy.com/",
+    "phone": "+357 22 489999",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "BOSTON GRILL AND MORE",
+    "totalScore": 5,
+    "reviewsCount": 49,
+    "street": "59PH+2H6 54, Arrenagogeiou, Nicosia 1021, Cyprus",
+    "website": "N/A",
+    "phone": "+357 22 317358",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Three Little Pigs Grill House",
+    "totalScore": 4.7,
+    "reviewsCount": 1397,
+    "street": "Paphos 8046, Cyprus",
+    "website": "https://www.facebook.com/%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%B1%CF%84%CE%B6%CE%AF%CE%B4%CE%B9%CE%BA%CE%BF-%CE%A4%CE%B1-3-%CE%93%CE%BF%CF%85%CF%81%CE%BF%CF%85%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1-The-3-Little-Pigs-Kebab-Grill-House-520860551357996",
+    "phone": "+357 70 003233",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Moondog's Bar & Grill",
+    "totalScore": 4.4,
+    "reviewsCount": 1664,
+    "street": "Mykinon 7, Nicosia 1065, Cyprus",
+    "website": "http://www.moondogs.com.cy/",
+    "phone": "+357 70 006300",
+    "categoryName": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "HappyNest All Day - Bar & Grill Restaurant",
+    "totalScore": 4.7,
+    "reviewsCount": 95,
+    "street": "1st Avenue 84, Pile 7080",
+    "website": "http://www.happynest.com.cy/",
+    "phone": "+357 70 004401",
+    "categoryName": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Mix Grill Dinos by Onisilos",
+    "totalScore": 4.9,
+    "reviewsCount": 37,
+    "street": "Patriarchou Grigorioiu 'E 29A, Lakatamia 2320, Cyprus",
+    "website": "N/A",
+    "phone": "+357 96 191300",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Flying Pig Sports Bar and Grill",
+    "totalScore": 4.6,
+    "reviewsCount": 87,
+    "street": "Paphos 8049, Cyprus",
+    "website": "https://www.theflyingpigsportsbar.com/",
+    "phone": "+357 97 933944",
+    "categoryName": ["bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Chesters",
+    "totalScore": 4.5,
+    "reviewsCount": 1225,
+    "street": "194, Amathoundos Avenue, B1, Pareklisia 4533, Cyprus",
+    "website": "http://www.uptown-sq.com/",
+    "phone": "+357 25 025555",
+    "categoryName": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Harry's House of Ribs Bar & Grill",
+    "totalScore": 4.8,
+    "reviewsCount": 29,
+    "street": "Tombs of the Kings Ave 19, Paphos 8046, Cyprus",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Texas Backyard - The best burger restaurant in Limassol!",
+    "totalScore": 4.9,
+    "reviewsCount": 775,
+    "street": "Christaki Kranou 31, Germasogeia 4041, Cyprus",
+    "website": "https://business.google.com/v/_/01505186643617410224/b5a2/_?",
+    "phone": "+357 96 185977",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "SYNO FLAME GRILL",
+    "totalScore": 4.4,
+    "reviewsCount": 297,
+    "street": "Leoforos Grigori Afxentiou 16-8, Aradippou 7104, Cyprus",
+    "website": "N/A",
+    "phone": "+357 24 534116",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Korakas BBQ-FOUKOU",
+    "totalScore": 4.4,
+    "reviewsCount": 21,
+    "street": "Mammari 2679, Cyprus",
+    "website": "N/A",
+    "phone": "+357 70 007022",
+    "categoryName": ["point_of_interest", "establishment"]
+  }
+]

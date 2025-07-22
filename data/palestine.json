@@ -1,0 +1,1520 @@
+[
+  {
+    "title": "Baladi Supermarket",
+    "totalScore": 4.2,
+    "reviewsCount": 839,
+    "street": "חנינא בית-נטף, ג'סר, Jisr A-Natf st, Jerusalem",
+    "website": "http://www.baladisupermarket.com/",
+    "phone": "+972 2-583-5400",
+    "categoryName": [
+      "supermarket",
+      "bakery",
+      "grocery_or_supermarket",
+      "electronics_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "East for the production of charcoal",
+    "totalScore": 4.8,
+    "reviewsCount": 13,
+    "street": "Fakous - Al Ferdan, Ismailia, Ismailia Governorate 8371063, Egypt",
+    "website": "https://www.charcoalcitrus.com/",
+    "phone": "+20 10 08392942",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Telal Alquds Stones",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Main Street, Qabatiya",
+    "website": "http://www.telalalquds.com/",
+    "phone": "+970 597 925 022",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "COAL GRILL",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "Ha-Rokem St 1, Caesarea, Israel",
+    "website": "http://www.therealcharcoal.co.il/",
+    "phone": "+972 54-458-1062",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "OMEGA Vape Store - Hebron",
+    "totalScore": 4.9,
+    "reviewsCount": 20,
+    "street": "Al-Haras, Ein Sarah Street, Hebron",
+    "website": "N/A",
+    "phone": "+970 593 092 198",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Vape & Smoke",
+    "totalScore": 4.8,
+    "reviewsCount": 9,
+    "street": "Ramallah al masayef, Ramallah",
+    "website": "N/A",
+    "phone": "+970 595 059 059",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Vape Gaza",
+    "totalScore": 5,
+    "reviewsCount": 8,
+    "street": "Remall st، Al shada st، Ghazzah",
+    "website": "N/A",
+    "phone": "+970 567 778 826",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "OMEGA Vape Store - Ramallah",
+    "totalScore": 4.6,
+    "reviewsCount": 16,
+    "street": "Al-Bireh",
+    "website": "http://www.omegav.ps/",
+    "phone": "+970 568 000 178",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "OMEGA Vape Store - Nablus",
+    "totalScore": 4.8,
+    "reviewsCount": 13,
+    "street": "رفيديا. طلعة علاء الدين بجانب مطعم برلين, Nablus",
+    "website": "N/A",
+    "phone": "+970 9 238 7619",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Vape & Smoke Kulture",
+    "totalScore": 4.6,
+    "reviewsCount": 180,
+    "street": "321 E Spring St #107b, Palestine, TX 75801, USA",
+    "website": "N/A",
+    "phone": "+1 903-731-4159",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pal Vape North Branch بال ڤيب فرع الشمال",
+    "totalScore": 4.7,
+    "reviewsCount": 9,
+    "street": "Jabalia",
+    "website": "http://www.facebook.com/palvape",
+    "phone": "+970 566 700 080",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "مدينة الفيب Vape City",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "شارع المحكمة الشرعية عمارة ذي النورين 2، غزة",
+    "website": "https://www.facebook.com/diygaza",
+    "phone": "+970 593 181 111",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Freedom Vape",
+    "totalScore": 4.6,
+    "reviewsCount": 116,
+    "street": "419 Old Elkhart Rd #150, Palestine, TX 75801, USA",
+    "website": "N/A",
+    "phone": "+1 903-727-0117",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Voltage Vapor Shop",
+    "totalScore": 4.7,
+    "reviewsCount": 139,
+    "street": "107 Ben Milam Rd, Palestine, TX 75801, USA",
+    "website": "http://www.voltagevaporshop.com/",
+    "phone": "+1 888-428-8273",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "VAPOR RITE",
+    "totalScore": 4.7,
+    "reviewsCount": 58,
+    "street": "2603 W Oak St, Palestine, TX 75801, USA",
+    "website": "N/A",
+    "phone": "+1 903-729-0266",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "G's Vape & Smoke",
+    "totalScore": 4.8,
+    "reviewsCount": 32,
+    "street": "3816 W Oak St, Palestine, TX 75801, USA",
+    "website": "https://gsvapeandsmoke.com/",
+    "phone": "+1 430-800-5441",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Royal Vape",
+    "totalScore": 4.5,
+    "reviewsCount": 16,
+    "street": "Al Shuhada', Gaza",
+    "website": "N/A",
+    "phone": "+972 56-767-3040",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Mazaj vape store",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "alsalam st, Hebron",
+    "website": "https://www.facebook.com/profile.php?id=100095546890797",
+    "phone": "+970 597 409 509",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Magic Vape",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "رام الله-الماصيون- بالقرب من دوار حبوب-عماره الطريفي سنتر, Ramallah",
+    "website": "N/A",
+    "phone": "+970 598 514 165",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "كبار شخصيات الڤيب",
+    "totalScore": 4.1,
+    "reviewsCount": 14,
+    "street": "غزة ڤيب Gaza vape, Gaza",
+    "website": "https://linktr.ee/groups_gazavape?utm_source=qr_code",
+    "phone": "+970 594 013 539",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Smoke-N-Puffs",
+    "totalScore": 4.9,
+    "reviewsCount": 116,
+    "street": "2020 B Crockett Rd, Palestine, TX 75801, USA",
+    "website": "https://www.facebook.com/Smoke-n-Puffs-102065911239315/",
+    "phone": "+1 903-952-2190",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Central to the Needs of Smoking Inc.",
+    "totalScore": 4.4,
+    "reviewsCount": 127,
+    "street": "Queen Shlomziyon St 15, Jerusalem, Israel",
+    "website": "http://www.smoker.co.il/",
+    "phone": "+972 2-625-2886",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "SMOKE CENTER",
+    "totalScore": 4.9,
+    "reviewsCount": 75,
+    "street": "2213 TX-256 Loop, Palestine, TX 75801, USA",
+    "website": "N/A",
+    "phone": "+1 903-723-3941",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "GOA Nargila",
+    "totalScore": 4.4,
+    "reviewsCount": 942,
+    "street": "HaRav Agan St 1, Jerusalem, Israel",
+    "website": "https://goasmoke.co.il/",
+    "phone": "+972 50-211-1588",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Masante Turkish bath & spa منتجع وحمام تركي ماسونتي",
+    "totalScore": 4.4,
+    "reviewsCount": 94,
+    "street": "اليرموك، Ramallah",
+    "website": "https://www.facebook.com/MaSanteTurkishbathAndSPA/",
+    "phone": "+970 2 295 3311",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Bonsai Spa",
+    "totalScore": 4.5,
+    "reviewsCount": 31,
+    "street": "Al masyoon 1 st floor, Ramallah",
+    "website": "https://m.facebook.com/988862344620763/",
+    "phone": "+970 2 298 8870",
+    "categoryName": ["spa", "hair_care", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ReNew Day Spa",
+    "totalScore": 4.6,
+    "reviewsCount": 51,
+    "street": "1006 TX-256 Loop, Palestine, TX 75801, USA",
+    "website": "http://www.myrenewspa.com/",
+    "phone": "+1 903-729-4483",
+    "categoryName": [
+      "beauty_salon",
+      "spa",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Sham Turkish bath & SPA منتجع وحمام تركي شام",
+    "totalScore": 4.1,
+    "reviewsCount": 81,
+    "street": "Al Shrafa Street, Al Bireh, Ramallah",
+    "website": "N/A",
+    "phone": "+972 2-240-2607",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Green Care Center - جرين كير سنتر",
+    "totalScore": 5,
+    "reviewsCount": 33,
+    "street": "Rukab street, Ramallah",
+    "website": "http://www.greencare.ps/",
+    "phone": "N/A",
+    "categoryName": [
+      "spa",
+      "health",
+      "store",
+      "point_of_interest",
+      "beauty_salon",
+      "establishment"
+    ]
+  },
+  {
+    "title": "الحمام التركي البالوع رام الله",
+    "totalScore": 4.3,
+    "reviewsCount": 53,
+    "street": "Al-Bireh, Al Balou', Palestine البيرة، البالوع مكتب الداخلية،, Ramallah",
+    "website": "N/A",
+    "phone": "+970 2 242 8281",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Abundant Life Wellness & Low T Center",
+    "totalScore": 4.3,
+    "reviewsCount": 8,
+    "street": "2044 Crockett Rd, Palestine, TX 75801, USA",
+    "website": "https://www.facebook.com/AbundantLifePalestine/",
+    "phone": "+1 903-723-9200",
+    "categoryName": ["health", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Rivendale Wellness Center",
+    "totalScore": 5,
+    "reviewsCount": 5,
+    "street": "750 Anderson County Rd #451, Palestine, TX 75803, USA",
+    "website": "http://rivendale-wellness-center.square.site/",
+    "phone": "+1 817-343-6189",
+    "categoryName": ["health", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Al ghazal",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "شارع مسقط، رام الله . عارورة",
+    "website": "https://instagram.com/ahmadalghazall?igshid=YjM2YjNmNDA=",
+    "phone": "+970 592 907 236",
+    "categoryName": ["hair_care", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "الحمام التركي البلدة القديمة",
+    "totalScore": 3.8,
+    "reviewsCount": 5,
+    "street": "6796+M83, Nablus",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["spa", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "مركز رويال للمساج وساونا",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "شارع الوحدة، غزه",
+    "website": "https://www.facebook.com/royalcentergaza",
+    "phone": "+970 597 693 912",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "וובר (Weber) סניף ירושלים",
+    "totalScore": 3.6,
+    "reviewsCount": 5,
+    "street": "HaUman St 14, Jerusalem, Israel",
+    "website": "https://grill.co.il/",
+    "phone": "+972 2-673-2080",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill palestine",
+    "totalScore": 4.3,
+    "reviewsCount": 9,
+    "street": "شارع دايرة السير مقابل محمص النتشة, Hebron",
+    "website": "N/A",
+    "phone": "+970 594 363 111",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ملحمة و مشاوي دعنا",
+    "totalScore": 4.1,
+    "reviewsCount": 14,
+    "street": "W625+M85, Ramallah",
+    "website": "N/A",
+    "phone": "+970 2 295 8639",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "חלל חיצון גרילים",
+    "totalScore": 4.8,
+    "reviewsCount": 2710,
+    "street": "אולם התצוגה החדש!, דרך המוביל 5, כפר סבא, 4442409, Israel",
+    "website": "http://www.spacegan.co.il/",
+    "phone": "+972 54-759-4968",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "מנגל אש",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "רק בתיאום, דרך המוביל 99, Kfar Saba, Israel",
+    "website": "https://www.mangalesh.com/",
+    "phone": "+972 50-644-9442",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "griller",
+    "totalScore": 4.7,
+    "reviewsCount": 3,
+    "street": "Ha-Nevi'im St 76, Jerusalem, 9422803, Israel",
+    "website": "http://www.griller.co.il/",
+    "phone": "+972 72-255-5503",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "The Grillman Shop",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Bnei Brit St 5, Hod Hasharon, 4526505, Israel",
+    "website": "N/A",
+    "phone": "+1 973-947-7790",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Badia Grills & Accessories",
+    "totalScore": 4.9,
+    "reviewsCount": 15,
+    "street": "Dead Sea Rd., Amman, Jordan",
+    "website": "http://www.badiagrills.com/",
+    "phone": "+962 6 572 6007",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "صالون الفخامه(barber)",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "66FH+V28, Nablus",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Palestine Mall",
+    "totalScore": 4.4,
+    "reviewsCount": 20,
+    "street": "W6F7+PCJ, Ramallah",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["shopping_mall", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill House",
+    "totalScore": 4.7,
+    "reviewsCount": 465,
+    "street": "Shiekh Jarrah, Shimon Hatzadik St 15, Jerusalem",
+    "website": "https://www.facebook.com/GrillHouseBBQ/",
+    "phone": "+972 2-999-1200",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "summaq Kitchen",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "Ramallah",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "כרמל דיירקט - הרשת הגדולה, הוותיקה והמקצועית ביותר בעולמות הגרילים, הטאבונים, המעשנות ומטבחי החוץ.​",
+    "totalScore": 4.8,
+    "reviewsCount": 309,
+    "street": "Gezer, Israel",
+    "website": "https://www.carmeldirect.com/",
+    "phone": "+972 8-381-9790",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Smoker world -عالم المدخن",
+    "totalScore": 5,
+    "reviewsCount": 7,
+    "street": "وسط البلد بجانب بلدية نابلس رفيديا الشارع الرئيسي, Nablus",
+    "website": "https://www.facebook.com/121687994559008/posts/4878284068899353/",
+    "phone": "+972 52-244-7736",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ט.ח אקסיה יבוא ושיווק פחמים איכותיים למנגל",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "14, Nahala, 7954000, Israel",
+    "website": "N/A",
+    "phone": "+972 50-244-3734",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Kamado Juan",
+    "totalScore": 4.9,
+    "reviewsCount": 48,
+    "street": "HaHarash St 6, Ramat Hasharon, 4726205, Israel",
+    "website": "http://www.kamado-juan.co.il/",
+    "phone": "+972 3-734-9444",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "العطاء لتجهيز المطاعم ومستلزماتها",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "حواره الشارع الرئيسي بجانب العطاء للكهرباء والإنارة الحديثه, Nablus",
+    "website": "N/A",
+    "phone": "+970 599 820 275",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "KFT מטבחי חוץ",
+    "totalScore": 4.9,
+    "reviewsCount": 45,
+    "street": "חוות אברהם 20, מטבחי חוץ kft, Shir ha-Shirim 20, Brehya, Israel",
+    "website": "http://www.kft.co.il/",
+    "phone": "+972 50-250-7103",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "المتجر الفلسطيني",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "رام الله - ام الشرايط، بالقرب من نادي الوحدة، Ramallah",
+    "website": "http://www.gopalstore.ps/",
+    "phone": "+970 569 991 555",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "A d. Marketing and distribution SCAB",
+    "totalScore": 4.5,
+    "reviewsCount": 134,
+    "street": "HaOreg St 5, Modi'in-Maccabim-Re'ut, Israel",
+    "website": "https://www.scab.co.il/",
+    "phone": "+972 8-663-0060",
+    "categoryName": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "שאקל-ציוד השטח המקצועי בעולם.",
+    "totalScore": 5,
+    "reviewsCount": 1093,
+    "street": "Agripas St 111, Jerusalem, 7951500, Israel",
+    "website": "https://www.shakel.co.il/",
+    "phone": "+972 50-782-7377",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Columbia",
+    "totalScore": 3.8,
+    "reviewsCount": 92,
+    "street": "מתחם אלרוב, שדרות, Yitshak Kariv, Jerusalem",
+    "website": "http://www.columbia.co.il/",
+    "phone": "+972 2-624-4844",
+    "categoryName": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Lametayel Outlet",
+    "totalScore": 4.4,
+    "reviewsCount": 321,
+    "street": "Yo'el Moshe Salomon St 5, Jerusalem, 9463305, Israel",
+    "website": "http://www.lametayel.co.il/",
+    "phone": "+972 77-333-4509",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "chimigag",
+    "totalScore": 4.5,
+    "reviewsCount": 42,
+    "street": "King David St 32, Jerusalem, Israel",
+    "website": "http://www.chimigag.com/",
+    "phone": "+972 2-625-5388",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Genesis Land",
+    "totalScore": 4.6,
+    "reviewsCount": 1170,
+    "street": "R9H2+4WW, Alon",
+    "website": "http://www.genesisland.co.il/",
+    "phone": "+972 2-997-4477",
+    "categoryName": [
+      "travel_agency",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Derech Eretz - Outdoor Equipment",
+    "totalScore": 4.9,
+    "reviewsCount": 548,
+    "street": "Ha-Musakhim St 5, Jerusalem, 9342018, Israel",
+    "website": "http://deer.co.il/",
+    "phone": "+972 2-545-4880",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Lametayel",
+    "totalScore": 4.3,
+    "reviewsCount": 257,
+    "street": "A דיזינגוף 50 דיזנגוף סנטר - בניין A, קומה שלישית תל אביב יפו, Tel Aviv-Jaffa, 6433267, Israel",
+    "website": "http://www.lametayel.co.il/",
+    "phone": "+972 77-333-4501",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Ferrino Camping Israel",
+    "totalScore": 4.9,
+    "reviewsCount": 51,
+    "street": "1, Zohar, Israel",
+    "website": "http://www.ferrino.co.il/",
+    "phone": "+972 54-468-4118",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ריקושט - תלפיות ירושלים - Rikushet",
+    "totalScore": 3.9,
+    "reviewsCount": 208,
+    "street": "General Pierre Koenig St 29, Jerusalem, Israel",
+    "website": "https://www.rikushet.co.il/",
+    "phone": "+972 2-534-2592",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Sabras",
+    "totalScore": 4.6,
+    "reviewsCount": 1066,
+    "street": "Jaffa St 105, Jerusalem, Israel",
+    "website": "http://www.sbrs.co.il/",
+    "phone": "+972 2-502-1295",
+    "categoryName": [
+      "clothing_store",
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Orcha",
+    "totalScore": 4.6,
+    "reviewsCount": 456,
+    "street": "Hillel St 31, Jerusalem, Israel",
+    "website": "https://www.facebook.com/Orcha2012/?fref=ts",
+    "phone": "+972 2-624-0655",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ריקושט - ירושלים מלחה - Rikushet",
+    "totalScore": 4,
+    "reviewsCount": 246,
+    "street": "Derech Agudat Sport Beitar 1, Jerusalem, Israel",
+    "website": "https://www.rikushet.co.il/",
+    "phone": "+972 2-940-2794",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "ארץ ציוד מחנאות",
+    "totalScore": 4.7,
+    "reviewsCount": 447,
+    "street": "מרכז מסחרי שער בנימין",
+    "website": "https://ertzcamping.co.il/",
+    "phone": "+972 2-583-1006",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "The North Face",
+    "totalScore": 4.2,
+    "reviewsCount": 271,
+    "street": "Mamilla Rd 18, Jerusalem, 9414904, Israel",
+    "website": "http://www.thenorthface.eu/",
+    "phone": "+972 2-625-3582",
+    "categoryName": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "International Sport",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "Clal Center, Yafo 97, קומה c2, Jerusalem, Israel",
+    "website": "N/A",
+    "phone": "+972 2-625-7998",
+    "categoryName": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Lametayel",
+    "totalScore": 4.5,
+    "reviewsCount": 220,
+    "street": "Yad Harutsim St 19, Jerusalem, Israel",
+    "website": "http://www.lametayel.co.il/",
+    "phone": "+972 77-333-4504",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "פק\"ל חגור סניף מודיעין",
+    "totalScore": 4.7,
+    "reviewsCount": 498,
+    "street": "Ha-Satat St 16, Modi'in-Maccabim-Re'ut, Israel",
+    "website": "http://www.pakalhagor.co.il/",
+    "phone": "+972 8-656-3850",
+    "categoryName": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "المتجر الفلسطيني",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "رام الله - ام الشرايط، بالقرب من نادي الوحدة، Ramallah",
+    "website": "http://www.gopalstore.ps/",
+    "phone": "+970 569 991 555",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Trek Market - טרק מרקט",
+    "totalScore": 4.6,
+    "reviewsCount": 122,
+    "street": "שדרות המלאכות 5 מגה אור 1, Modi'in Makabim-Re'ut, Israel",
+    "website": "https://trekmarket.co.il/?utm_source=gmb&utm_medium=link&utm_campaign=mybusiness",
+    "phone": "+972 8-645-4777",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "Hod Sport",
+    "totalScore": 4.2,
+    "reviewsCount": 69,
+    "street": "Jaffa St 59, Jerusalem, 9434201, Israel",
+    "website": "http://www.sporthod.co.il/",
+    "phone": "+972 2-625-0206",
+    "categoryName": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "شركة القائد لمستلزمات المطاعم و أعياد الميلاد",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Assira Street، Nablus",
+    "website": "N/A",
+    "phone": "+970 595 131 111",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "العميد لتجهيز المطاعم و المحلات التجارية",
+    "totalScore": 4.8,
+    "reviewsCount": 10,
+    "street": "",
+    "website": "N/A",
+    "phone": "+970 568 359 000",
+    "categoryName": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "العطاء لتجهيز المطاعم ومستلزماتها",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "حواره الشارع الرئيسي بجانب العطاء للكهرباء والإنارة الحديثه, Nablus",
+    "website": "N/A",
+    "phone": "+970 599 820 275",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Kashou' Food Supplies شركة قشوع للمواد الغذائية",
+    "totalScore": 3.8,
+    "reviewsCount": 34,
+    "street": "Shakara Street, Ramallah Ramallah، Ramallah",
+    "website": "http://www.facebook.com/Kashoufoodsupplies",
+    "phone": "+970 2 298 0360",
+    "categoryName": ["cafe", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "شركة القواسمي لتجهيزات المطاعم والفنادق",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "الخليل- راس الجوره -دائرة السير -بجانب مسجد عبد الحي شاهين، Hebron",
+    "website": "http://kawasmi.ps/",
+    "phone": "+972 59-904-0186",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "الخليفة بلس / Al khalefa plus لتجهيز الكفيهات",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "W6F3+RW, Ramallah",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["point_of_interest", "store", "establishment"]
+  },
+  {
+    "title": "ALTAYEB Restaurant & Hotels Supply",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Kuzama, Al Ayam, Ramallah",
+    "website": "N/A",
+    "phone": "+970 599 995 100",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Food Land Co.",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "P636+3G4, Bethlehem",
+    "website": "N/A",
+    "phone": "+972 50-863-5151",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Kitchen Club Store",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Al-Masraf, Ramallah",
+    "website": "N/A",
+    "phone": "+970 2 297 3382",
+    "categoryName": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "شركه المطبخ الذهبي لمستلزمات المطاعم والفنادق",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "ابو اكتيله، الخليل",
+    "website": "https://www.facebook.com/profile.php?id=100063919338590",
+    "phone": "+970 599 104 868",
+    "categoryName": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "زاهدة لمعدات المطاعم والملاحم",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "شارع المنطقة الصناعية الفرنسية - هندازة, Bethlehem",
+    "website": "N/A",
+    "phone": "+970 599 135 735",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "UYUSTOOLS PALESTINE",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "Prico House Building, Abu Raya Street AL - Mayson, Ramallah",
+    "website": "http://www.aal-tools.com/",
+    "phone": "+970 594 475 229",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Gloria Jean's Coffees",
+    "totalScore": 4.7,
+    "reviewsCount": 49,
+    "street": "Al-Irsal Street, Albereh/ Ramallah",
+    "website": "https://www.instagram.com/gjcpalestine/?hl=en&utm_content=Gloria+Jean%27s+Coffees+-+Albereh%2F+Ramallah&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_10688629247318058955",
+    "phone": "+970 593 444 666",
+    "categoryName": [
+      "cafe",
+      "bakery",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Educational Bookshop",
+    "totalScore": 4.5,
+    "reviewsCount": 420,
+    "street": "Salah Ad-din St 19, Jerusalem",
+    "website": "http://www.educationalbookshop.com/",
+    "phone": "+972 2-627-5858",
+    "categoryName": [
+      "book_store",
+      "cafe",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Al-Mohanad Food Service Equipment | Falastin Branch المهند لمعدات خدمات الطعام | فرع فلسطين",
+    "totalScore": 4.1,
+    "reviewsCount": 99,
+    "street": "Palestine, Al-Rehab, Jeddah 23343, Saudi Arabia",
+    "website": "http://www.al-mohanad.net/",
+    "phone": "+966 9200 04318",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "أبو شادي لمعدات المطاعم والكوفي شوب",
+    "totalScore": 4.1,
+    "reviewsCount": 8,
+    "street": "Baqa باقة الحطب،, قلقيلية, Qalqilya",
+    "website": "https://www.aboshadi.com/",
+    "phone": "+970 598 856 980",
+    "categoryName": ["food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "القطب للتبريد ومعدات المطاعم",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "شارع القدس - كفر عقب، Jerusalem",
+    "website": "N/A",
+    "phone": "+970 597 156 019",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Green Advanced Technology and Engineering Solutions",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "AL BIREH Muncipality Street AL Bireh، Ramallah",
+    "website": "N/A",
+    "phone": "+970 568 334 499",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "נ.ק.ל אספקת סולר ונפט",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Bar Kochva St 52, Jerusalem",
+    "website": "https://www.b144.co.il/B144_sip/4A1404134470655D4C16061544706D5948.aspx",
+    "phone": "+972 52-260-0841",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "هوا للحلول الهندسية",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Opposite Legislative Council, Ramallah, Ramallah, Al Masoun, Ramallah",
+    "website": "https://www.facebook.com/HawaHES",
+    "phone": "+972 59-432-8651",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "בנית מערכות חימום בע''מ",
+    "totalScore": 4.7,
+    "reviewsCount": 71,
+    "street": "HaUman St 14, Jerusalem, Israel",
+    "website": "https://www.banit.co.il/",
+    "phone": "+972 2-679-0541",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "כרומגן",
+    "totalScore": 3.7,
+    "reviewsCount": 3,
+    "street": "HaArazim St 13, Jerusalem, Israel",
+    "website": "N/A",
+    "phone": "+972 52-375-3820",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "בסט גז - אביזרי גז בירושלים, תנורי הסקה בגז, משאבות חום",
+    "totalScore": 4.3,
+    "reviewsCount": 10,
+    "street": "HaUman St 18, Jerusalem, Israel",
+    "website": "http://www.himum.center/",
+    "phone": "+972 2-678-5544",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "שלמה FIX דודי שמש ומערכות מים",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "Kiryat HaYovel, Jerusalem, Israel",
+    "website": "https://lp.vp4.me/q3ef",
+    "phone": "+972 54-684-4628",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "UNEX SYSTEMS משאבות חום מזגנים מקררים",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Kanfei Nesharim St 68, Jerusalem, 9546457, Israel",
+    "website": "N/A",
+    "phone": "+972 54-789-0706",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "SATEC heaters",
+    "totalScore": 4.5,
+    "reviewsCount": 21,
+    "street": "חולית 1, פארק תעשיות אדומים, Ma'ale Adumim",
+    "website": "https://www.satec-heating.co.il/",
+    "phone": "+972 2-583-0615",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "עולם החימום חימום תת ריצפתי במים",
+    "totalScore": 4,
+    "reviewsCount": 21,
+    "street": "HaTa'asiya St 8, Jerusalem, Israel",
+    "website": "https://www.hwi.co.il/",
+    "phone": "+972 76-861-6816",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "טרמודול- פנל חימום לבית",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "Hebron Rd 105, Jerusalem, Israel",
+    "website": "https://thermodul.pomo.co.il/",
+    "phone": "+972 55-680-4425",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Mazgan Lezman",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Ramat Shlomo, Jerusalem",
+    "website": "https://www.mazganlezman.com/",
+    "phone": "+972 55-999-1654",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "NextHeat",
+    "totalScore": 5,
+    "reviewsCount": 3,
+    "street": "General Pierre Koenig St 29, Jerusalem, 9346937, Israel",
+    "website": "http://www.nextheat.co.il/",
+    "phone": "+972 72-330-3530",
+    "categoryName": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "title": "אלפא חום",
+    "totalScore": 4.6,
+    "reviewsCount": 77,
+    "street": "Derech Agudat Sport Beitar 1, Jerusalem, Israel",
+    "website": "http://alfa-h.co.il/",
+    "phone": "N/A",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "تامر الكترونك",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "عورتا",
+    "website": "N/A",
+    "phone": "+972 52-550-5706",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "טכנוהיט מערכות בע\"מ - חימום תת רצפתי | חימום מים בגז | משאבות חום",
+    "totalScore": 5,
+    "reviewsCount": 6,
+    "street": "Beit Lehem Rd 13, Jerusalem, 9355307, Israel",
+    "website": "http://www.technoheat.co.il/",
+    "phone": "+972 1-700-700-605",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Elite gas - underfloor heating | Gas Water Heaters",
+    "totalScore": 4.5,
+    "reviewsCount": 11,
+    "street": "Aba Berdichev St 2, Jerusalem",
+    "website": "http://www.elitagas.co.il/",
+    "phone": "+972 2-537-3000",
+    "categoryName": ["general_contractor", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "מרכז החימום והמיזוג בע\"מ | אולם תצוגה ומכירה מטבחי חוץ, גרילים, טאבונים ומעשנות בירושלים",
+    "totalScore": 4.7,
+    "reviewsCount": 257,
+    "street": "HaUman St 22, Jerusalem, Israel",
+    "website": "http://himum.center/",
+    "phone": "+972 2-672-5544",
+    "categoryName": [
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "ניר יעל מערכות חימום בע\"מ, הסקות, משאבות חום, חימום רצפתי, תנורי גז(יונקרס), מחממי מים, פתרונות לחימום הבית והמים.",
+    "totalScore": "N/A",
+    "reviewsCount": 0,
+    "street": "Beit Ha-Defus St 6, Jerusalem, Israel",
+    "website": "https://niryael.co.il/",
+    "phone": "+972 2-643-6115",
+    "categoryName": [
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "الكسواني",
+    "totalScore": 3.6,
+    "reviewsCount": 34,
+    "street": "بدو, Ramallah",
+    "website": "http://www.kiswane.com/",
+    "phone": "+970 595 060 174",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "GOA Nargila",
+    "totalScore": 4.4,
+    "reviewsCount": 942,
+    "street": "HaRav Agan St 1, Jerusalem, Israel",
+    "website": "https://goasmoke.co.il/",
+    "phone": "+972 50-211-1588",
+    "categoryName": ["store", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Astoria Cocktail Room",
+    "totalScore": 5,
+    "reviewsCount": 185,
+    "street": "118 Al Atan Street, Bethlehem",
+    "website": "https://linktr.ee/astoriacocktailroom",
+    "phone": "+970 566 009 199",
+    "categoryName": [
+      "bar",
+      "night_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Jubran || جبران || Amman Abdali Boulevard",
+    "totalScore": 4.8,
+    "reviewsCount": 31653,
+    "street": "شارع رفيق الحريري Rafiq Al Hariri Street بوليڤارد العبدلي - مدخل رقم ٢ The Boulevard - Abdali - Entrance 2 عمّان Amman, عمّان 11182, Jordan",
+    "website": "http://menu.jubran.com/",
+    "phone": "+962 7 7712 3456",
+    "categoryName": [
+      "night_club",
+      "cafe",
+      "bar",
+      "tourist_attraction",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Barley's Irish Pub and Restaurant",
+    "totalScore": 4.2,
+    "reviewsCount": 281,
+    "street": "Khalil Sakakini Street Al Masyoun Ramallah, Ramallah",
+    "website": "https://www.facebook.com/barleyspubps",
+    "phone": "+970 597 255 102",
+    "categoryName": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "title": "Bevero Lounge",
+    "totalScore": 4.6,
+    "reviewsCount": 79,
+    "street": "bethlehem-beit sahour street, infront of ararat hotel, Bethlehem",
+    "website": "https://www.facebook.com/Beverolounge/",
+    "phone": "+970 2 274 0400",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "مقهى طروادة",
+    "totalScore": 3.9,
+    "reviewsCount": 109,
+    "street": "5JQC+2M8, Dayr 'Allah, Jordan",
+    "website": "N/A",
+    "phone": "+962 7 8539 6432",
+    "categoryName": ["cafe", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "המפגשון",
+    "totalScore": 4.7,
+    "reviewsCount": 514,
+    "street": "HaShalom Rd 7, Tel Aviv-Yafo, Israel",
+    "website": "https://www.facebook.com/pages/%D7%93%D7%A8%D7%9A-%D7%94%D7%A9%D7%9C%D7%95%D7%9D-7%D7%9E%D7%A4%D7%92%D7%A9-%D7%94%D7%A9%D7%9C%D7%95%D7%9D%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/1405927539730306",
+    "phone": "+972 52-811-8882",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Bricks Lounge",
+    "totalScore": 4.8,
+    "reviewsCount": 8,
+    "street": "Ein Munjed, Al Bareieh ST, Ramallah",
+    "website": "https://www.instagram.com/brickslounge22/",
+    "phone": "+970 593 300 148",
+    "categoryName": ["night_club", "bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Vetus Cafe",
+    "totalScore": 4,
+    "reviewsCount": 5,
+    "street": "W633+F94, Al-Saa'a Square, Ramallah",
+    "website": "N/A",
+    "phone": "+970 2 295 7424",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Barcode Shisha Cafe",
+    "totalScore": 4,
+    "reviewsCount": 1,
+    "street": "W6C5+4PR, Ramallah",
+    "website": "N/A",
+    "phone": "+970 593 077 417",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "The Red Lady",
+    "totalScore": 4.6,
+    "reviewsCount": 234,
+    "street": "Yosef Rivlin St 3, Jerusalem, Israel",
+    "website": "N/A",
+    "phone": "+972 52-677-9408",
+    "categoryName": ["bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Eiffel cafe",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "R6XH+X52, Al-Ram",
+    "website": "N/A",
+    "phone": "+972 58-471-1159",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Atef Hookah Bar",
+    "totalScore": 4.7,
+    "reviewsCount": 21,
+    "street": "Cardo, Jerusalem",
+    "website": "N/A",
+    "phone": "+972 50-922-2158",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Zollis Pub",
+    "totalScore": 2.9,
+    "reviewsCount": 234,
+    "street": "Yosef Rivlin St 5, Jerusalem, Israel",
+    "website": "N/A",
+    "phone": "+972 50-965-6565",
+    "categoryName": ["bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Lounge Bar",
+    "totalScore": 4.3,
+    "reviewsCount": 31,
+    "street": "Derech Ben Gurion 105, Bat Yam, Israel",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["bar", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Hookah Tagamo3 (New Cairo)",
+    "totalScore": 4.3,
+    "reviewsCount": 1057,
+    "street": "S Teseen, New Cairo 1, Cairo Governorate 11865, Egypt",
+    "website": "http://www.instagram.com/hookahegy",
+    "phone": "+20 12 08711185",
+    "categoryName": ["cafe", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "مقهى سيزر - ceser coffeshop",
+    "totalScore": 4.1,
+    "reviewsCount": 65,
+    "street": "شارع صدام حسين, محافظة قلقيلية, فلسطين",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "W café & Market",
+    "totalScore": 4.9,
+    "reviewsCount": 20,
+    "street": "35 57، جرش،، Jarash, Jordan",
+    "website": "N/A",
+    "phone": "+962 7 7945 4051",
+    "categoryName": ["cafe", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "المسبح والمقهى العربي",
+    "totalScore": 4.1,
+    "reviewsCount": 31,
+    "street": "ramallah, V3CF+823، بيت لقيا",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "مقهى الطيره-coffee alteera",
+    "totalScore": 3.8,
+    "reviewsCount": 60,
+    "street": "شارع جورج حبش, Ramallah",
+    "website": "N/A",
+    "phone": "+970 2 297 4060",
+    "categoryName": ["point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill palestine",
+    "totalScore": 4.3,
+    "reviewsCount": 9,
+    "street": "شارع دايرة السير مقابل محمص النتشة, Hebron",
+    "website": "N/A",
+    "phone": "+970 594 363 111",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Barbeque PIZZA",
+    "totalScore": 4.4,
+    "reviewsCount": 19,
+    "street": "V6V7+M5W, Ramallah",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Smoke Bite",
+    "totalScore": 4.4,
+    "reviewsCount": 28,
+    "street": "Birzeit University, Birzeit",
+    "website": "N/A",
+    "phone": "+970 566 008 909",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "BBQ Pizza",
+    "totalScore": 4.9,
+    "reviewsCount": 9,
+    "street": "Al-Tireh, W59G+GXG, Ramallah",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Abu Johnny Restaurant",
+    "totalScore": 4.8,
+    "reviewsCount": 5,
+    "street": "W53X+F3, Ramallah",
+    "website": "N/A",
+    "phone": "+970 599 815 434",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Alyan BBQ&Steak Restaurant",
+    "totalScore": 4.1,
+    "reviewsCount": 210,
+    "street": "Beit Hanina Main St, Janet Adan, Jerusalem",
+    "website": "http://facebook.com/pg/AlyanRestaurant",
+    "phone": "+972 2-585-7447",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "barbeque pizza",
+    "totalScore": 4.4,
+    "reviewsCount": 351,
+    "street": "بيرزيت, الشارع الرئيسي مقابل كازية 2000, Ramallah",
+    "website": "N/A",
+    "phone": "+972 59-440-0691",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "pitmaster smoke house",
+    "totalScore": 4.7,
+    "reviewsCount": 12,
+    "street": "رام الله, Beit Ur al-Tahta",
+    "website": "https://www.facebook.com/pitmastersmokehousepal/",
+    "phone": "+970 567 000 333",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Zarour Restaurant",
+    "totalScore": 4.1,
+    "reviewsCount": 206,
+    "street": "rashid al hadaden street, Ramallah",
+    "website": "https://www.facebook.com/BBQZarour/",
+    "phone": "+970 2 295 6767",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "مطعم واستراحة بيسان",
+    "totalScore": 4.2,
+    "reviewsCount": 197,
+    "street": "",
+    "website": "N/A",
+    "phone": "+972 52-450-9966",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Grill House",
+    "totalScore": 4.7,
+    "reviewsCount": 465,
+    "street": "Shiekh Jarrah, Shimon Hatzadik St 15, Jerusalem",
+    "website": "https://www.facebook.com/GrillHouseBBQ/",
+    "phone": "+972 2-999-1200",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Shams Al-Aseel شمس الأصيل",
+    "totalScore": 4.2,
+    "reviewsCount": 225,
+    "street": "Al Makhrour Road، Beit Jala",
+    "website": "https://www.facebook.com/shams.alaseel.palestine",
+    "phone": "+970 594 616 011",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Jala Jungle Camping",
+    "totalScore": 4.4,
+    "reviewsCount": 372,
+    "street": "El-MaKhrur Street - Jala Jungle، Beit Jala",
+    "website": "https://m.facebook.com/jalajungle",
+    "phone": "+972 50-346-8204",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Restaurant grills epic Valley Barley",
+    "totalScore": 4.1,
+    "reviewsCount": 637,
+    "street": "الشارع الرئيسي، Nablus",
+    "website": "http://www.facebook.com/wadiasheer/",
+    "phone": "+970 599 654 079",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Abu Eli Restaurant",
+    "totalScore": 4.5,
+    "reviewsCount": 36,
+    "street": "P692+5VC, Manger St, Bethlehem",
+    "website": "https://www.facebook.com/Abueli.restaurant/",
+    "phone": "+970 2 274 1897",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pizza Inn Palestine",
+    "totalScore": 4.8,
+    "reviewsCount": 45,
+    "street": "Nablus , RAFIDYA , OPPISTE OF AN-NAJAH NATIONAL UNIVERSITY, Nablus",
+    "website": "N/A",
+    "phone": "+970 9 235 6936",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Qabar Restaurant مطعم قعبر",
+    "totalScore": 4.5,
+    "reviewsCount": 126,
+    "street": "Tujar street، بيت جالا",
+    "website": "N/A",
+    "phone": "+970 2 274 1419",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Pizza Express",
+    "totalScore": 4.4,
+    "reviewsCount": 148,
+    "street": "Almrah Rd Deir Debwan",
+    "website": "N/A",
+    "phone": "+970 2 289 7091",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Buffalo Ribs & Wings",
+    "totalScore": 3.8,
+    "reviewsCount": 232,
+    "street": "طريق بيت جالا",
+    "website": "https://www.facebook.com/stkbuffalo/?fref=ts",
+    "phone": "+970 2 276 2021",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  },
+  {
+    "title": "Piano Restaurant",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "P642+5X4, Bethlehem",
+    "website": "N/A",
+    "phone": "N/A",
+    "categoryName": ["restaurant", "food", "point_of_interest", "establishment"]
+  }
+]
